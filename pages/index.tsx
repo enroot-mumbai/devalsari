@@ -7,11 +7,11 @@ const Home: NextPage = () => {
     Homepage
     <p>
       
-      <a href = "http://localhost:3000/">  Home  |</a>
-      <a rel="noreferrer" href = "http://localhost:3000/about"  >|  About Us  |</a> 
-      <a rel="noreferrer" href = "http://localhost:3000/activities"  >|  Activities  |</a> 
-      <a rel="noreferrer" href = "http://localhost:3000/ecotourism"  >|  Ecotourism  |</a>
-      <a rel="noreferrer" href = "http://localhost:3000/contact"  >|  Contact Us  </a> 
+      <a href = "/">  Home  |</a>
+      <a rel="noreferrer" href = "/about"  >|  About Us  |</a> 
+      <a rel="noreferrer" href = "/activities"  >|  Activities  |</a> 
+      <a rel="noreferrer" href = "/ecotourism"  >|  Ecotourism  |</a>
+      <a rel="noreferrer" href = "/contact"  >|  Contact Us  </a> 
       
       
       
