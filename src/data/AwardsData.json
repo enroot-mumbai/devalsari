@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "imagePath":"/assets/img/awards/Award1.jpg"
+    },
+    {
+        "id":2,
+        "imagePath":"/assets/img/awards/Award2.jpg"
+    },
+    {
+        "id":3,
+        "imagePath":"/assets/img/awards/Award3.jpeg"
+    },
+    {
+        "id":4,
+        "imagePath":"/assets/img/awards/Award4.jpg"
+    },
+    {
+        "id":5,
+        "imagePath":"/assets/img/awards/Award5.jpg"
+    },
+    {
+        "id":6,
+        "imagePath":"/assets/img/awards/Award6.jpg"
+    },
+    {
+        "id":7,
+        "imagePath":"/assets/img/awards/Award7.jpg"
+    }
+]

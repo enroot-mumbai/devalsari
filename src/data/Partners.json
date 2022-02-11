@@ -1,0 +1,41 @@
+[
+    {
+      "id": 1,
+      "imagePath": "/assets/img/devpartners/Titlilogo.jpg",
+      "alt": "Titli Trust",
+      "name": "Titli Trust",
+      "description": "They supports the Society in its alternate livelihoods program supporting ecotourism development and bee-keeping.And also supports the Society in the Rural Schools Conservation Education Program."
+      
+    },
+    {
+      "id": 2,
+      "imagePath": "/assets/img/devpartners/UK FD LOGO.jpg",
+      "alt": "Uttarakhand Forest Department -Mussoorie Forest Division",
+      "name": "Uttarakhand Forest Department -Mussoorie Forest Division",
+      "description":"They supports the Society in its conservation education program, programs during Wildlife Week and tree plantation."
+    },
+    {
+      "id": 3,
+      "imagePath": "/assets/img/devpartners/UK FD LOGO.jpg",
+      "alt": "Uttarakhand Forest Department -Ecotourism Wing",
+      "name": "Uttarakhand Forest Department -Ecotourism Wing",
+      "description":"They supports the development of ecotourism in Devalsari through training capability building and its village development program for rural tourism."
+    },
+    {
+        "id": 4,
+        "imagePath": "/assets/img/devpartners/BTDT logo.webp",
+        "alt": "Been There Doon That",
+        "name": "Been There Doon That",
+        "description":"BTDT supports the society in its conservation and livelihood programs supporting its activities for heritage and nature ecotourism, organic food produce and bee-keeping."
+        
+      },
+    {
+      "id": 5,
+      "imagePath": "/assets/img/devpartners/ONGC.jpg",
+      "alt": "ONGC",
+      "name": "ONGC",
+      "description":"ONGC has funded the Devalsari Society in its bee-keeping project in Corbett landscape. And is funding Titli Trust in its Devalsari Ecotourism Development Project."
+      
+    }
+    
+  ]

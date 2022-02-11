@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"John Doe",
+        "organization":"Organization Name",
+        "designation":"Designation",
+        "quote":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "imagePath":"/assets/img/testimonials/dummy.png"
+    },
+    {
+        "id":2,
+        "name":"John",
+        "organization":"Organization Name",
+        "designation":"Designation",
+        "quote":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "imagePath":"/assets/img/testimonials/dummy.png"
+    },
+    {
+        "id":3,
+        "name":"John",
+        "organization":"Organization Name",
+        "designation":"Designation",
+        "quote":"Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "imagePath":"/assets/img/testimonials/dummy.png"
+    }
+]

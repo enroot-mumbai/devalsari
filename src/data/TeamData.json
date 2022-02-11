@@ -1,0 +1,47 @@
+{
+
+  "team": [
+    {
+      "id": 1,
+      "name": "Arun Prasad",
+      "designation": "Director",
+      "imagePath": "/assets/img/team/profile.png"
+    },
+    {
+      "id": 2,
+      "name": "Alka Pathak",
+      "designation": "Secretary",
+      "imagePath": "/assets/img/team/profile.png"
+    },
+    {
+      "id": 3,
+      "name": "Ram Prasad",
+      "designation": "Treasurer",
+      "imagePath": "/assets/img/team/profile.png"
+    },
+    {
+      "id": 4,
+      "name": "Ramesh Uniyal",
+      "designation": "Deputy Director",
+      "imagePath": "/assets/img/team/profile.png"
+    },
+    {
+      "id": 5,
+      "name": "Ram Kishen",
+      "designation": "",
+      "imagePath": "/assets/img/team/profile.png"
+    },
+    {
+      "id": 6,
+      "name": "Ankit Sharma",
+      "designation": "",
+      "imagePath": "/assets/img/team/profile.png"
+    },
+    {
+      "id": 7,
+      "name": "Avinash Chandra Pathak",
+      "designation": "",
+      "imagePath": "/assets/img/team/profile.png"
+    }
+  ]
+}

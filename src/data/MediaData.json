@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "source": "Hindustan Times",
+      "date": "02/02/2021",
+      "headline": "Devalsari likely to become Uttarakhand’s first biodiversity heritage site",
+      "URL": "https://www.hindustantimes.com/india-news/devalsari-likely-to-become-uttarakhand-s-first-biodiversity-heritage-site-101612263476564.html",
+      "imagePath":"/assets/img/news/news1.png"
+    },
+    {
+      "id": 2,
+      "source": "Times Of India",
+      "date": "10/12/2020",
+      "headline": "Sightings of rare butterflies, moths after over a century in Uttarakhand hills",
+      "URL": "https://timesofindia.indiatimes.com/city/dehradun/sightings-of-rare-butterflies-moths-after-over-a-century-in-ukhand-hills/articleshow/78608110.cms",
+      "imagePath":"/assets/img/news/news2.jpeg"
+    },
+    {
+      "id": 3,
+      "source": "Jagran News",
+      "date": "1/25/2019",
+      "headline": "यहां बसता है तितलियों का रंग बिरंगा संसार, आयोजित होगा महोत्सव",
+      "URL": "https://www.jagran.com/news/national-titli-mahotsav-to-be-organised-in-devalsari-of-uttrakhand-jagran-special-18891385.html",
+      "imagePath":"/assets/img/news/news3.png"
+    },
+    {
+      "id": 4,
+      "source": "The Pioneer",
+      "date": "05/13/2019",
+      "headline": "Sensitive & slow at Devalsari — A tourism model for hills",
+      "URL": "https://www.dailypioneer.com/2019/state-editions/sensitive---slow-at-devalsari-----a-tourism-model-for-hills.html",
+      "imagePath":"/assets/img/news/news4.png"
+    },
+    
+    {
+      "id": 5,
+      "source": "Hindustan Times",
+      "date": "10/11/2020",
+      "headline": "Rare day-flying moth sighted in Uttarakhand’s Garhwal Himalayas for first time",
+      "URL": "https://www.hindustantimes.com/dehradun/uttarakhand-rare-day-flying-moth-sighted-in-uttarakhand-s-garhwal-himalayas-for-first-time/story-qqu6ZdNw3y7DjwH9WPQOHM.html",
+      "imagePath":"/assets/img/news/news5.png"
+    },
+    {
+      "id": 6,
+      "source": "Sanctuary Asia",
+      "date": "02/01/2020",
+      "headline": "It all comes back to Honeybees",
+      "URL": "https://drive.google.com/file/d/1YcE-F7EjIHxVMcNV2ikOoxK8NqjzbbSF/view?usp=sharing",
+      "imagePath":"/assets/img/news/news6.png"
+    },
+    {
+      "id": 7,
+      "source": "Times of India",
+      "date": "10/01/2020",
+      "headline": "Rare butterflies,moths flit again in Uttarakhand.",
+      "URL": "https://drive.google.com/file/d/1W-KjihaI36CChwzCtN7VUUCFIXbc0nVW/view?usp=sharing",
+      "imagePath":"/assets/img/news/news7.png"
+    },
+    {
+      "id": 8,
+      "source": "The Tribune",
+      "date": "03/07/2017",
+      "headline": "Devalsari,an unexplored tourist spot.",
+      "URL": "https://drive.google.com/file/d/17AgkTW-qVQShQCCl3WXMqhZO6qseet1d/view?usp=sharing",
+      "imagePath":"/assets/img/news/news8.png"
+    },
+    {
+      "id": 9,
+      "source": "Danik Jagran",
+      "date": "12/02/2016",
+      "headline": "देवलसारी के जंगल में दिखी उड़न गिलहरी",
+      "URL": "https://www.business-standard.com/article/news-ani/shramdan-new-way-to-tackle-drought-in-maharashtra-118041400504_1.html",
+      "imagePath":"/assets/img/news/news9.png"
+    }
+  ]

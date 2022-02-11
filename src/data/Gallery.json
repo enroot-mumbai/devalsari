@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Flora and Fauna",
+    "path": "Flora and fauna",
+    "imageCount": 15
+  },
+  {
+    "id": 2,
+    "title": "Tourism",
+    "path": "Tourism",
+    "imageCount": 13
+  },
+  {
+    "id": 3,
+    "title": "Internal training programs",
+    "path": "Internal training programs",
+    "imageCount": 6
+  },
+  {
+    "id": 4,
+    "title": "Titli Utsav",
+    "path": "Titli Utsav",
+    "imageCount": 9
+  },
+  {
+    "id": 5,
+    "title": "Local School Programs",
+    "path": "Local school programs",
+    "imageCount": 15
+  },
+  {
+    "id": 6,
+    "title": "External workshops",
+    "path": "External workshops",
+    "imageCount": 6
+  },
+  {
+    "id": 7,
+    "title": "Bee-keeping",
+    "path": "Bee-keeping",
+    "imageCount": 7
+  },
+  {
+    "id": 8,
+    "title": "Heritage & Culture",
+    "path": "Heritage and culture",
+    "imageCount": 8
+  },
+  {
+    "id": 9,
+    "title": "DERC",
+    "path": "DERC",
+    "imageCount": 7
+  }
+]

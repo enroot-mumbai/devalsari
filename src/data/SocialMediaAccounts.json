@@ -1,0 +1,38 @@
+[
+    {
+       "id":1,
+       "link":"https://www.facebook.com",
+       "iconClass":"fa fa-facebook",
+       "name":"Facebook"
+    },
+    {
+       "id":2,
+       "link":"https://twitter.com/",
+       "iconClass":"fa fa-twitter",
+       "name":"Twitter"
+    },
+    {
+       "id":3,
+       "link":"https://www.quora.com/profile/",
+       "iconClass":"fa fa-quora",
+       "name":"Quora"
+    },
+    {
+       "id":4,
+       "link":"https://www.instagram.com/",
+       "iconClass":"fa fa-instagram",
+       "name":"Instagram"
+    },
+    {
+       "id":5,
+       "link":"https://www.linkedin.com/company",
+       "iconClass":"fa fa-linkedin",
+       "name":"LinkedIn"
+    },
+    {
+       "id":6,
+       "link":"https://www.youtube.com",
+       "iconClass":"fa fa-youtube",
+       "name":"YouTube"
+    }
+ ]
