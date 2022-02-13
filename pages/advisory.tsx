@@ -32,7 +32,7 @@ function Advisor({ }: Props): ReactElement {
                 <meta name="twitter:url" content={meta.url} />
                 <meta name="twitter:description" content={meta.description} />
             </Head>
-            <Advisory/>
+            {/* <Advisory/> */}
         </div>
     );
 }
