@@ -29,50 +29,45 @@ function index({}: Props): ReactElement {
                         </h1>
                         <p>
                           Each and every contribution matters, donate us to give
-                          a boost to this movement of transforming India.
+                          a boost to this movement.
                         </p>
                         <br />
                         <h3>
                           <span>Account Details:</span>
                         </h3>
                         <p>
-                          <b>Global Vikas Trust</b>
+                          <b>Devalsari</b>
                           <br />
-                          ICICI Bank
+                          Bank Name
                           <br />
-                          Vile Parle East Branch
+                          Branch
                           <br />
-                          Current A/c: 0211 0500 5514
+                          Current A/c: xxxx xxxx xxxx
                           <br />
-                          IFSC: ICIC0000211
+                          IFSC: 
                         </p>
-                        <div>
-                          {" "}
-                          <a
-                            style={{
-                              width: "150px",
-                              backgroundColor: "#1CA953",
-                              textAlign: "center",
-                              fontWeight: 800,
-                              padding: "11px 0px",
-                              color: "white",
-                              fontSize: "12px",
-                              display: "inline-block",
-                              textDecoration: "none",
-                            }}
-                            href="https://pmny.in/tIiKroo3klmw"
-                          >
-                            {" "}
-                            Donate Now{" "}
-                          </a>{" "}
-                        </div>
+                        <div className="button">
+                 <a href="/about"
+                    className="btn"
+                      style={{
+                        display: "flex",
+                        flexDirection: "row",
+                        justifyContent: "center",
+                        alignItems: "center",
+                        width: "fit-content",
+                        display: "inline-block",
+                        textTransform:"capitalize"}}>
+            <span>Donate Now</span>
+             </a>
+        </div>
+                       
                       </div>
                     </div>
                     <div className="col-lg-6">
                       <div className="banner-image mt-50 mt-lg-0 text-center text-lg-right">
                         {" "}
                         <img
-                          src="assets/img/illustrations/Donate.svg"
+                          src="assets/img/illustrations/donate.svg"
                           data-rjs={2}
                           alt=""
                           data-rjs-processed="true"

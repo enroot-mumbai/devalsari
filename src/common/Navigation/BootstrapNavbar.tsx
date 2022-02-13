@@ -11,7 +11,6 @@ export default function NavbarComponent(props: any) {
   let menuItems = [
     { id: 0, name: "Home", path: "/", dropDownLinks: [
      
-      { id: 1, name: "Landing", path: "/#landing" },
       { id: 2, name: "Ecotourism & Homestay", path: "/#ecotour" },
       { id: 3, name: "Bee-keeping", path: "/#beekeeping" },
       { id: 4, name: "Devalsari Protection", path: "/#devalsariParyavaran" },
@@ -22,8 +21,6 @@ export default function NavbarComponent(props: any) {
       { id: 1, name: "About the society", path: "/about#aboutsociety" },
       { id: 2, name: "The Society Objectives", path: "/about#objective" },
       { id: 3, name: "Members of the Society", path: "/about#team" },
-      { id: 4, name: "Ecotourism", path: "/about#eco" },
-      { id: 5, name: "Conservation", path: "/about#conservation" },
       { id: 6, name: "Awards", path: "/about#awards" },
     ], },
     { id: 2, name: "Gallery", path: "/gallery" },
@@ -59,6 +56,8 @@ export default function NavbarComponent(props: any) {
         fixed={"top"}
         bg="dark"
         variant="dark"
+        style={{borderBottom:"1px solid",borderColor:"#f0f0f0",padding:"1rem 10rem",margin:"0rem"
+      }}
       >
         <Navbar.Brand>
           <Link href="/">
@@ -70,6 +69,7 @@ export default function NavbarComponent(props: any) {
                   position: "absolute",
                   left: "10px",
                   top: "10px",
+                  margin:"0rem 10rem"
                 }}
                 src={props.level === 1 ? "./../Devalsari.png" : "Devalsari.png"}
               />

@@ -14,7 +14,8 @@ function Objective({}: Props): ReactElement {
               fontWeight:'bolder',
               letterSpacing:1.3,
               fontSize:'36px'}}>
-                The Society’s Objectives</h3>
+                </h3>
+                <h2>The Society’s Objectives</h2>
             </div>
           </div>
         </div>

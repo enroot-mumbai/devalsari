@@ -4,7 +4,7 @@ interface Props {}
 
 function Ecotourism({}: Props): ReactElement {
   return (
-    <section id="ecotour" className="pt-60 pb-60">
+    <section id="ecotour" className="pt-100 pb-60">
       <div className="container">
         <div className="row">
           <div className="col-12">
@@ -14,7 +14,8 @@ function Ecotourism({}: Props): ReactElement {
                   fontWeight:'bolder',
                   letterSpacing:1.3,
                   fontSize:'36px'}}>
-                      Ecotourism and Homestay</h3>
+                      </h3>
+                      <h2>Ecotourism & Homestay</h2>
                 
             </div>
           </div>
@@ -23,7 +24,7 @@ function Ecotourism({}: Props): ReactElement {
           <div className="col-lg-6">
             <div className="video-area style--two mb-50 mb-lg-0">
               <img
-                src="assets\img\about\Ecotourism.jpg"
+                src="assets\img\home\EcotourismH.jpg"
                 data-rjs={2}
                 alt=""
                 data-rjs-processed="true"
@@ -53,11 +54,29 @@ function Ecotourism({}: Props): ReactElement {
                         - Stopping of fishing through the use of bleaching powder and electric current
                 </li>
             </ul>
-            <br/>
-            <p>
+           
+            <div className="button">
+                 <a href="/about"
+                    className="btn"
+                      style={{
+                        display: "flex",
+                        flexDirection: "row",
+                        justifyContent: "center",
+                        alignItems: "center",
+                        width: "fit-content",
+                        paddingInline:"10px",
+                        marginTop:"20px",
+                        textTransform:"capitalize",
+                        }}>
+            <span>Read More</span>
+             </a>
+        </div>
+            
+            {/* <p>
             In this landscape, the Maun mela and the Chr Maun, are festivals during which fish are hunted using traditional plat powder called Timur (or Timru) or Maun. During these festivals, Maun and Chor Maun, fish are killed rampantly along with other biodiversity. 
             The society is working to create awareness about the adverse effects of the Maun mela.
-            </p>
+            </p> */}
+            
           </div>
         </div>
       </div>

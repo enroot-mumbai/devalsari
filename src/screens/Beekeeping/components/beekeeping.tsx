@@ -4,7 +4,7 @@ interface Props {
     
 }
 
-function Beekeeping({}: Props): ReactElement {
+function Bees({}: Props): ReactElement {
     return (
         <section id="beekeeping" className="pt-100 pb-60">
             <div className="container">
@@ -36,22 +36,7 @@ Traditionally, this was the bee used in wall beehives to produce honey.
 However, in recent years, people’s enthusiasm for bee-keeping and honey production is decreasing.
 There is need to rejuvenate bee keeping in Uttarakhand both as an alternate livelihood and for increased crop production. 
                       </p>  
-                      <div className="button">
-                 <a href="/about"
-                    className="btn"
-                      style={{
-                        display: "flex",
-                        flexDirection: "row",
-                        justifyContent: "center",
-                        alignItems: "center",
-                        width: "fit-content",
-                        paddingInline:"10px",
-                        marginTop:"20px",
-                        textTransform:"capitalize",
-                        }}>
-            <span>Read More</span>
-             </a>
-        </div>
+                     
                     </div>
 
                     <div className="col-lg-6">
@@ -75,4 +60,4 @@ There is need to rejuvenate bee keeping in Uttarakhand both as an alternate live
     )
 }
 
-export default Beekeeping
+export default Bees

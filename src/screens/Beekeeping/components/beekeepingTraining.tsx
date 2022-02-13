@@ -4,9 +4,9 @@ interface Props {
     
 }
 
-function Beekeeping({}: Props): ReactElement {
+function BeeKeepingTraining({}: Props): ReactElement {
     return (
-        <section id="beekeeping" className="pt-100 pb-60">
+        <section id="training" className="pt-100 pb-120">
             <div className="container">
                 <div className="row">
                 <div className="col-12">
@@ -17,7 +17,7 @@ function Beekeeping({}: Props): ReactElement {
                         letterSpacing:1.3,
                         fontSize:'36px'}}>
                             </h3>
-                            <h2>Bee-keeping</h2>
+                            <h2>Bee-keeping Training</h2>
                     <h1 style={{margin:'1rem'}}>
                         
                     </h1>
@@ -29,35 +29,18 @@ function Beekeeping({}: Props): ReactElement {
                     <div className="col-lg-6">
                         <h2 className={"mb-20"} > </h2>
                         <p>
-                        The society hopes to revive bee-keeping as an alternate livelihood in Uttarakhand through honey production, promote bee conservation and improve productivity of crops, horticulture and forest produce.  
+                        ONGC Ltd is funding a program run by the Devalsari society to train farmers in the Corbett landscape. The program covers 5 villages and 40 villagers. The villagers have been given subsidized bee-boxes and have been provided bee-keeping capacity building and marketing support. 
                         </p>
-<p>Apis cerana indica is the native bee of the hills of Uttarakhand. 
-Traditionally, this was the bee used in wall beehives to produce honey. 
-However, in recent years, people’s enthusiasm for bee-keeping and honey production is decreasing.
-There is need to rejuvenate bee keeping in Uttarakhand both as an alternate livelihood and for increased crop production. 
-                      </p>  
-                      <div className="button">
-                 <a href="/about"
-                    className="btn"
-                      style={{
-                        display: "flex",
-                        flexDirection: "row",
-                        justifyContent: "center",
-                        alignItems: "center",
-                        width: "fit-content",
-                        paddingInline:"10px",
-                        marginTop:"20px",
-                        textTransform:"capitalize",
-                        }}>
-            <span>Read More</span>
-             </a>
-        </div>
+                        <p>
+                        The Society conducts training programs to promote adoption of bee keeping as an alternate livelihood. Arun Prasad has conducting bee-keeping training programs in Almora and Tehri Garhwal Districts as part of the Ajeevika project of the Uttarakhand Government.
+                        </p>  
+                     
                     </div>
 
                     <div className="col-lg-6">
                         <div className=" mb-50 mb-lg-0">
                         <img
-                            src="assets\img\home\beekeeping.png"
+                            src="\assets\img\beekeeping\beetraining.JPG"
                             data-rjs={2}
                             alt="Bee-Keeping"
                             data-rjs-processed="true"
@@ -75,4 +58,4 @@ There is need to rejuvenate bee keeping in Uttarakhand both as an alternate live
     )
 }
 
-export default Beekeeping
+export default BeeKeepingTraining

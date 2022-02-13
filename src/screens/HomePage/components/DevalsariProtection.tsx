@@ -4,7 +4,7 @@ interface Props {}
 
 function DevalsariParyavaran ({}: Props): ReactElement {
   return (
-    <section id="devalsariParyavaran" className="pt-60 pb-60">
+    <section id="devalsariParyavaran" className="pt-100 pb-60">
       <div className="container">
         <div className="row">
           <div className="col-12">
@@ -14,7 +14,8 @@ function DevalsariParyavaran ({}: Props): ReactElement {
                   fontWeight:'bolder',
                   letterSpacing:1.3,
                   fontSize:'36px'}}>
-                      Devalsari Paryavaran Bachao</h3>
+                      </h3>
+                      <h2>Devalsari Paryavaran Bachao</h2>
                 
             </div>
           </div>

@@ -7,6 +7,7 @@ interface Props {
 function index({}: Props): ReactElement {
     return (
         <div>
+            
             <Gallery/>
         </div>
     )

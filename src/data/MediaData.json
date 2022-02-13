@@ -45,15 +45,15 @@
       "source": "Sanctuary Asia",
       "date": "02/01/2020",
       "headline": "It all comes back to Honeybees",
-      "URL": "https://drive.google.com/file/d/1YcE-F7EjIHxVMcNV2ikOoxK8NqjzbbSF/view?usp=sharing",
+      "URL": "https://drive.google.com/file/d/1gdNp8VYWrBCPf-NFFK55uMw4bdJKsorf/view?usp=sharing",
       "imagePath":"/assets/img/news/news6.png"
     },
     {
       "id": 7,
-      "source": "Times of India",
+      "source": "Times Nation",
       "date": "10/01/2020",
       "headline": "Rare butterflies,moths flit again in Uttarakhand.",
-      "URL": "https://drive.google.com/file/d/1W-KjihaI36CChwzCtN7VUUCFIXbc0nVW/view?usp=sharing",
+      "URL": "https://drive.google.com/file/d/1mKoxa9nCEySfT9R0guCyFzf3_j4eFDcG/view?usp=sharing",
       "imagePath":"/assets/img/news/news7.png"
     },
     {
@@ -61,7 +61,7 @@
       "source": "The Tribune",
       "date": "03/07/2017",
       "headline": "Devalsari,an unexplored tourist spot.",
-      "URL": "https://drive.google.com/file/d/17AgkTW-qVQShQCCl3WXMqhZO6qseet1d/view?usp=sharing",
+      "URL": "https://drive.google.com/file/d/1QyDuUylUBNnsVg9HQNfDtz18Yd_2S5NW/view?usp=sharing",
       "imagePath":"/assets/img/news/news8.png"
     },
     {
@@ -69,7 +69,31 @@
       "source": "Danik Jagran",
       "date": "12/02/2016",
       "headline": "देवलसारी के जंगल में दिखी उड़न गिलहरी",
-      "URL": "https://www.business-standard.com/article/news-ani/shramdan-new-way-to-tackle-drought-in-maharashtra-118041400504_1.html",
+      "URL": "https://drive.google.com/file/d/1QKjq2Orw2tcdXF5wEteRq62T7vEjoytl/view?usp=sharing",
       "imagePath":"/assets/img/news/news9.png"
+    },
+    {
+      "id": 10,
+      "source": "Danik Jagran",
+      "date": "02/01/2016",
+      "headline": "देवलसारी बनेगी उत्तराखंड की पहली बायोडायवर्सिटी हैरिटेज साइट",
+      "URL": "https://m.jagran.com/uttarakhand/dehradun-city-devlasari-of-tehri-will-become-uttarakhands-first-biodiversity-heritage-site-21324425.html",
+      "imagePath":"/assets/img/news/news10.png"
+    },
+    {
+      "id": 11,
+      "source": "Hindustan Times",
+      "date": "10/11/2021",
+      "headline": "Rare day-flying moth sighted in Uttarakhand’s Garhwal Himalayas for first time",
+      "URL": "https://www.hindustantimes.com/dehradun/uttarakhand-rare-day-flying-moth-sighted-in-uttarakhand-s-garhwal-himalayas-for-first-time/story-qqu6ZdNw3y7DjwH9WPQOHM_amp.html",
+      "imagePath":"/assets/img/news/news11.png"
+    },
+    {
+      "id": 12,
+      "source": "Times of India",
+      "date": "12/02/2016",
+      "headline": "Villages near Tehri Lake, Devalsari and Ranikhet to be devel",
+      "URL": "https://timesofindia.indiatimes.com/city/dehradun/villages-near-tehri-lake-devalsari-and-ranikhet-to-be-developed-for-eco-tourism/articleshow/56273013.cms",
+      "imagePath":"/assets/img/news/news12.png"
     }
   ]

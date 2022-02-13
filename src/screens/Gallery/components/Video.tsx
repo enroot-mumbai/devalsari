@@ -15,7 +15,7 @@ function Video({ }: Props): ReactElement {
                         {/* Section Title Begin */}
                         <div className="section-title text-center">
                             <h3 style={{ color: "#3f3f3f", fontWeight: 'bolder'}}>Videos</h3>
-                            <p>Videos of the Devalsari Society </p>
+                            <p> </p>
                         </div>
                         {/* Section Title End */}
                     </div>

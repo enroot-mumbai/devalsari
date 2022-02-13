@@ -9,8 +9,9 @@ function GettingThere({}: Props): ReactElement {
         <div className="row">
           <div className="col-12">
             <div className="section-title text-center">
-               <h3 style={{fontFamily:'Raleway',fontWeight:'bolder',letterSpacing:1.3,fontSize:'36px'}}>How to get there</h3> 
-              <h2></h2>
+               <h3 style={{fontFamily:'Raleway',fontWeight:'bolder',letterSpacing:1.3,fontSize:'36px'}}></h3> 
+
+              <h2>How to get there</h2>
             </div>
           </div>
         </div>

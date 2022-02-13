@@ -14,10 +14,10 @@ function Photo({ }: Props): ReactElement {
                     <div className="col-12">
                         {/* Section Title Begin */}
                         <div className="section-title text-center">
-                            <h3 style={{ fontFamily: 'Caveat, cursive', fontWeight: 'bolder', letterSpacing: 1.3, fontSize: '36px' }}>Gallery</h3>
-                            <h2>Wonderful moments captured</h2>
+                            <h3 style={{ fontFamily: 'Caveat, cursive', fontWeight: 'bolder', letterSpacing: 1.3, fontSize: '36px' }}></h3>
+                            <h2>Gallery</h2>
                             <h3 className="pt-30" style={{ color: "#3f3f3f", fontWeight: 'bolder' }}>Photos</h3>
-                            <p>Pictures are the easy way to relive your memories</p>
+                            <p></p>
                         </div>
                         {/* Section Title End */}
                     </div>

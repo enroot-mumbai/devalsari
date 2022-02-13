@@ -12,7 +12,7 @@ const meta = {
 export default function Home() {
   return (
     <>
-      {/* <Head>
+      <Head>
         <title>{meta.title}</title>
         <meta name="description" content={meta.description} />
         <meta property="og:site_name" content={meta.title} />
@@ -28,7 +28,7 @@ export default function Home() {
         <meta name="twitter:site" content={meta.twitterHandle} />
         <meta name="twitter:url" content={meta.url} />
         <meta name="twitter:description" content={meta.description} />
-      </Head> */}
+      </Head> 
       <HomePage /> 
     </>
   );

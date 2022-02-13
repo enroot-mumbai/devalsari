@@ -26,8 +26,9 @@ function Team({ }: Props): ReactElement {
                 letterSpacing: 1.3, 
                 fontSize: '36px' 
                 }}>
-                  Members of the Society
+                 
                   </h3> 
+                  <h2>Members of the Society</h2>
                   <h2></h2>{" "}
 
               <div className="about-nav-tab mt-20" style={{ width: '100%', display: 'flex', justifyContent: 'center' }}>

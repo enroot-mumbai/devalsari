@@ -6,7 +6,7 @@ interface Props {}
 
 function Awards({}: Props): ReactElement {
   return (
-    <section id="awards" className="pt-60">
+    <section id="awards" className="pt-60 pb-120">
       <div className="container">
         <div className="row">
           <div className="col-12">
@@ -19,7 +19,7 @@ function Awards({}: Props): ReactElement {
                   fontSize: "36px",
                 }}
               >
-                Recognition
+                
               </h3>{" "}
               <h2>Awards</h2>{" "}
               {/* <p>
