@@ -12,7 +12,6 @@ function index({}: Props): ReactElement {
     return (
         <div>
             <Volunteer/>
-            {/* <Careers/> */}
             {/* <SocialMedia/> */}
             <ContactInfo/>
         </div>
