@@ -30,7 +30,7 @@ function Objective({}: Props): ReactElement {
               />{" "}
             </div>
           </div>
-          <div className="col-lg-6 text-center text-lg-left">
+          <div className="col-lg-6 text-justify text-lg-left">
            
             <p>
             The Society’s hopes to address some of the issues that plague Uttarakhand and its main objectives are:

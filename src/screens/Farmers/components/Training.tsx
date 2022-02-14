@@ -8,7 +8,7 @@ function Training({}: Props): ReactElement {
   const TrainingVideos = [
     {
       id:1,
-      title:"Global Parli's Sitaphal Plantation Webinar by Dr. Navnath Kaspate",
+      title:" Sitaphal Plantation Webinar by Dr. Navnath Kaspate",
       youtubeURL:"https://www.youtube.com/watch?v=1WfXYsZe4Ao&feature=youtu.be",
       thumbnailImage:"/assets/img/farms/sitafal.jpg"
     },

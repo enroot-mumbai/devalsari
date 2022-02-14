@@ -51,7 +51,7 @@ const Post = () => {
   ) : (
     <div>
       <Head>
-        <title>Global Parli | {title}</title>
+        <title>Devalsari | {title}</title>
       </Head>
       <NavbarComponent level={1} />
       {isOpen && (
