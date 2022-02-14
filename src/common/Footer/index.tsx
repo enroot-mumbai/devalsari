@@ -5,13 +5,8 @@ import SocialMediaAccounts from "./../../data/SocialMediaAccounts.json";
 export default function Footer(props: any) {
   const FooterLinks = [
     { id: 1, link: "/about", title: "About us" },
-    { id: 2, link: "/ourproject", title: "Our Project" },
-    // { id: 3, link: "/farmers", title: "Farmers" },
     { id: 4, link: "/gallery", title: "Gallery" },
-    // { id: 5, link: "/achievements", title: "Achievements" },
     { id: 6, link: "/media", title: "Media" },
-    // { id: 7, link: "/joinus", title: "Join Us" },
-    // { id: 8, link: "https://blog.globalparli.org", title: "Blog" },
     { id: 8, link: "/joinus#contactus", title: "Contact Us" },
   ];
   return (
