@@ -31,7 +31,7 @@ function AboutUs({}: Props): ReactElement {
   ];
   
   return (
-    <section id="about" className="pt-120 pb-60">
+    <section id="about" className="pt-120 pb-40">
       <div className="container">
         <div className="row">
           <div className="col-12">
@@ -110,7 +110,7 @@ function AboutUs({}: Props): ReactElement {
         >
           <br></br>
         </h3>
-        <h2 style={{paddingTop:"50px"}}>Our Main Objectives </h2>
+        <h2 style={{paddingTop:"10px"}}>Our Main Objectives </h2>
       </div>
       <div className={styles.profileContainer}>
         {About.map((singleProfile) => {

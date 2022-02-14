@@ -6,7 +6,7 @@ interface Props {
 
 function Beekeeping({}: Props): ReactElement {
     return (
-        <section id="beekeeping" className="pt-100 pb-60">
+        <section id="beekeeping" className="pt-50 pb-30">
             <div className="container">
                 <div className="row">
                 <div className="col-12">
@@ -18,9 +18,7 @@ function Beekeeping({}: Props): ReactElement {
                         fontSize:'36px'}}>
                             </h3>
                             <h2>Bee-keeping</h2>
-                    <h1 style={{margin:'1rem'}}>
-                        
-                    </h1>
+                  
                     </div>
                 </div>
                 </div>

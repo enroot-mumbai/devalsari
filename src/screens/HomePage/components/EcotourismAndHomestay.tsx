@@ -4,7 +4,7 @@ interface Props {}
 
 function Ecotourism({}: Props): ReactElement {
   return (
-    <section id="ecotour" className="pt-100 pb-60">
+    <section id="ecotour" className="pt-30 pb-20">
       <div className="container">
         <div className="row">
           <div className="col-12">
@@ -31,7 +31,7 @@ function Ecotourism({}: Props): ReactElement {
               />{" "}
             </div>
           </div>
-          <div className="col-lg-6 text-center text-lg-left">
+          <div className="col-lg-6 text-justify text-lg-left">
            
             <p>
             The Sreedev Suman Titli Park was established by the society in 2016. The society has been protecting the forest in this area resulting in a resurgence of local biodiversity.

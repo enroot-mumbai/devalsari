@@ -56,7 +56,7 @@ export default function NavbarComponent(props: any) {
         fixed={"top"}
         bg="dark"
         variant="dark"
-        style={{borderBottom:"1px solid",borderColor:"#f0f0f0",padding:"1rem 10rem",margin:"0rem"
+        style={{borderBottom:"1px solid",borderColor:"#f0f0f0",padding:"1rem 1rem",margin:"0rem"
       }}
       >
         <Navbar.Brand>
@@ -69,7 +69,7 @@ export default function NavbarComponent(props: any) {
                   position: "absolute",
                   left: "10px",
                   top: "10px",
-                  margin:"0rem 10rem"
+                  margin:"0rem 1rem"
                 }}
                 src={props.level === 1 ? "/assets/img/logobg.png" : "Devalsari.png"}
               />
