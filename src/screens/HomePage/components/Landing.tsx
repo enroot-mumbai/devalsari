@@ -14,7 +14,7 @@ export default function Landing({}: Props): ReactElement {
       <div className={styles.img}>
       
       <img
-                src="assets\img\mandir.jpg"
+                src="assets\img\mandir.JPG"
                 alt="Devalsari"
                 width={"100%"}
                 style = {{maxHeight:"80vh",objectFit:"cover"}}

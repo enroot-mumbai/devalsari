@@ -30,7 +30,7 @@ export default function Footer(props: any) {
                 <div className="widget widget_contact_info">
                   <div className="widget-logo d-flex justify-content-center">
                     <Image
-                      src={"/Devalsari.png"}
+                      src={"/assets/img/logobg.png"}
                       alt="Logo"
                       height={72}
                       width={72}
@@ -47,12 +47,12 @@ export default function Footer(props: any) {
                     <div className="single-info">
                       <span>Phone</span>
                       <p>
-                        <a href="tel:+91123456789">+91 12345 6789</a>
+                        <a href="tel:+91123456789">+91 93686 74290</a>
                       </p>
                       <span>Contact mail</span>
                       <p>
                         <a href="mailto:connect@globalparli.org" target="_top">
-                          johndoe@mail.com
+                        develsari@gmail.com
                         </a>
                       </p>
                     </div>

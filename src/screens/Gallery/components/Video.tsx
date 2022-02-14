@@ -27,8 +27,8 @@ function Video({ }: Props): ReactElement {
                         return (
                             <div key={video.id} className=" col-sm-12 col-md-6 col-lg-4 text-center" >
                                 <div className="single-service">
-                                    <iframe src={video.path} className="content" allowFullScreen frameBorder="0" style={{width:"300px", height:"200px", borderRadius:"5px", boxShadow:"0px 0px 10px 2px"}}></iframe>
-                                    <h4 style={{marginBottom:"-20px"}}>{video.title}</h4>
+                                    <iframe src={video.path} className="content" allowFullScreen frameBorder="0" style={{width:"500px", height:"300px", borderRadius:"5px", }}></iframe>
+                                    <h4 style={{padding:"0 12px", paddingBottom:'-20px'}}>{video.title}</h4>
                                 </div>
                             </div>
                         );

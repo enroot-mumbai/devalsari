@@ -15,7 +15,7 @@ const StoryData = [
   },
   {
     id:2,
-    imagePath:'assets/img/GettingThere/derc.JPG',
+    imagePath:'/assets/img/about/visit2020.jpeg',
     content: <p style={{textAlign:"justify"}}>
       The primary reasons for “playen” are reduced returns from agriculture and livestock, lack of job opportunities in the villages, poor education and health care. 
             The reduced returns from agriculture are driven by increased damage to crops by wildlife (rhesus macaque, langur, wilds pigs), reduced livestock populations leading to reduced soil fertility, 
@@ -26,7 +26,7 @@ const StoryData = [
   },
   {
     id:3,
-    imagePath:'assets/img/GettingThere/derc.JPG',
+    imagePath:'/assets/img/about/aboutus.jpg',
     content: <p p style={{textAlign:"justify"}}>
           Now, people’s aspirations and needs have changed, as well as their dependence on the government for handouts through MNREGA and subsidized food through ration shops.
           <br/>In Uttarakhand, rain-fed agriculture on scattered, small landholdings for subsistence farming is the norm, rather than the exception.The phenomenon of “playen” has resulted in many fields being run over with Lantana and Eupatorium, which in turn has resulted the increased presence of wildlife such as leopards, porcupines and wild pigs near villages, resulting in increased conflict.

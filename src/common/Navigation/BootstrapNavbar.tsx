@@ -10,7 +10,7 @@ export default function NavbarComponent(props: any) {
   const router = useRouter();
   let menuItems = [
     { id: 0, name: "Home", path: "/", dropDownLinks: [
-     
+      { id: 1, name: "About Us", path: "/#about" },
       { id: 2, name: "Ecotourism & Homestay", path: "/#ecotour" },
       { id: 3, name: "Bee-keeping", path: "/#beekeeping" },
       { id: 4, name: "Devalsari Protection", path: "/#devalsariParyavaran" },
@@ -71,7 +71,7 @@ export default function NavbarComponent(props: any) {
                   top: "10px",
                   margin:"0rem 10rem"
                 }}
-                src={props.level === 1 ? "./../Devalsari.png" : "Devalsari.png"}
+                src={props.level === 1 ? "/assets/img/logobg.png" : "Devalsari.png"}
               />
             </a>
           </Link>

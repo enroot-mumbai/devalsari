@@ -23,7 +23,7 @@ function Objective({}: Props): ReactElement {
           <div className="col-lg-6">
             <div className=" mb-50 mb-lg-0">
               <img
-                src="assets\img\about\Ecotourism.jpg"
+                src="/assets/img/about/10139.jpg"
                 data-rjs={2}
                 alt=""
                 data-rjs-processed="true"
