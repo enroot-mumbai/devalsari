@@ -37,7 +37,7 @@ However, in recent years, people’s enthusiasm for bee-keeping and honey produc
 There is need to rejuvenate bee keeping in Uttarakhand both as an alternate livelihood and for increased crop production. 
                       </p>  
                       <div className="button">
-                 <a href="/about"
+                 <a href="/beekeeping"
                     className="btn"
                       style={{
                         display: "flex",

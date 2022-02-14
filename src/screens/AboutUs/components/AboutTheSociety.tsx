@@ -1,6 +1,4 @@
 import React, { ReactElement } from "react";
-import styles from "./Landing.module.scss";
-import Image from "next/image";
 
 interface Props {}
 const StoryData = [
