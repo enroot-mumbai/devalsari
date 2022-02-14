@@ -33,7 +33,7 @@ function achievements({}: Props): ReactElement {
         <meta name="twitter:url" content={meta.url} />
         <meta name="twitter:description" content={meta.description} />
       </Head>
-      <Achievements />
+      {/* <Achievements /> */}
     </>
   );
 }
