@@ -8,7 +8,7 @@ interface Props {
 function Careers({}: Props): ReactElement {
     return (
         <section id="careers" className="pt-100 pb-90 section-pattern bg-img" style={{backgroundImage: 'url("assets/img/section-pattern/feature-pattern.png")'}}>
-        <div className="container">
+        {/* <div className="container">
             <div className="row">
                 <div className="col-12">
                     <div className="section-title text-center">
@@ -310,7 +310,7 @@ function Careers({}: Props): ReactElement {
 
                     </div>
             </div>
-        </div>
+        </div> */}
         </section>
 
     )

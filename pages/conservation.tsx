@@ -1,8 +1,6 @@
 import Head from "next/head";
 import React, { ReactElement } from "react";
-import Conservation from "../src/screens/AboutUs/components/Conservation";
-import Conservation1 from "../src/screens/AboutUs/components/Conservation1";
-
+import Conservation from "../src/screens/Conservation/Conservation";
 interface Props {}
 
 const meta = {
@@ -34,7 +32,6 @@ function Conservationfull({ }: Props): ReactElement {
                 <meta name="twitter:description" content={meta.description} />
             </Head>
             <Conservation/>
-            <Conservation1/>
         </div>
     );
 }

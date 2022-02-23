@@ -9,7 +9,7 @@ function index({}: Props): ReactElement {
       style={{
         backgroundImage: 'url("assets/img/section-pattern/slider-pattern.png")',
         paddingTop: "90px",
-        paddingBottom: "0px",
+        paddingBottom: "50px",
       }}
     >
       <div
@@ -36,15 +36,15 @@ function index({}: Props): ReactElement {
                           <span>Account Details:</span>
                         </h3>
                         <p>
-                          <b>Devalsari</b>
+                          <b>देवलसारी  पर्यावरण  संरक्षण  एवं  तकनीकी  विकास  समिति</b>
                           <br />
-                          Bank Name
+                          Bank Name - एसबीआई
                           <br />
-                          Branch
+                          Branch - थात्युड
                           <br />
-                          Current A/c: xxxx xxxx xxxx
+                          Current A/c - 33940424562
                           <br />
-                          IFSC: 
+                          IFSC - SBIN0004529
                         </p>
                         <div className="button">
                  <a href="/about"
@@ -59,7 +59,7 @@ function index({}: Props): ReactElement {
                         textTransform:"capitalize"}}>
             <span>Donate Now</span>
              </a>
-        </div>
+                        </div>
                        
                       </div>
                     </div>
@@ -77,6 +77,26 @@ function index({}: Props): ReactElement {
                       </div>
                     </div>
                   </div>
+                  <div className="row align-items-center">
+                  <div className="col-lg-6">
+<div className="banner-image mt-50 mt-lg-0 text-center text-lg-right pt-100">
+                        {" "}
+                        <img
+                          src="assets/img/illustrations/qrcode1.png"
+                          data-rjs={2}
+                          alt=""
+                          data-rjs-processed="true"
+                          width={510}
+                          height={578}
+                        />{" "}
+                      </div>
+</div>
+<div className="col-lg-6 text-center">
+                    <h3> Or else scan QR code to be a catalyst for our Project </h3>
+                </div>
+                  </div>
+
+
                 </div>
               </div>
             </div>
@@ -84,6 +104,7 @@ function index({}: Props): ReactElement {
         </div>
       </div>
     </section>
+
   );
 }
 

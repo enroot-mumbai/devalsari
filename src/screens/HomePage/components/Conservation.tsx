@@ -2,30 +2,26 @@ import React, { ReactElement } from "react";
 
 interface Props {}
 
-function Conservation({}: Props): ReactElement {
+function ConservationHome({}: Props): ReactElement {
   return (
-    <section id="conservation" className="pt-60 pb-60">
+    <section id="conservation" className="pt-30 pb-20">
       <div className="container">
         <div className="row">
           <div className="col-12">
             <div className="section-title text-center">
-              <h3 style={{fontFamily:'Raleway',fontWeight:'bolder',letterSpacing:1.3,fontSize:'36px'}}>Conservation at Devalsari</h3>
-              <h2></h2>
+              <h3 style={{
+                  fontFamily:'Raleway',
+                  fontWeight:'bolder',
+                  letterSpacing:1.3,
+                  fontSize:'36px'}}>
+                      </h3>
+                      <h2>Conservation at Devalsari</h2>
+                
             </div>
           </div>
         </div>
         <div className="row align-items-center"> 
-          <div className="col-lg-6">
-            <div className="video-area style--two mb-50 mb-lg-0">
-              <img
-                src="assets\img\about\Ecotourism.jpg"
-                data-rjs={2}
-                alt=""
-                data-rjs-processed="true"
-              />{" "}
-            </div>
-          </div>
-          <div className="col-lg-6 text-center text-lg-left">
+          <div className="col-lg-6 text-justify text-lg-left">
            
             <p>
             The Sreedev Suman Titli Park was established by the society in 2016. The society has been protecting the forest in this area resulting in a resurgence of local biodiversity.
@@ -48,11 +44,39 @@ function Conservation({}: Props): ReactElement {
                         - Stopping of fishing through the use of bleaching powder and electric current
                 </li>
             </ul>
-            <br/>
-            <p>
+           
+            <div className="button">
+                 <a href="/conservation"
+                    className="btn"
+                      style={{
+                        display: "flex",
+                        flexDirection: "row",
+                        justifyContent: "center",
+                        alignItems: "center",
+                        width: "fit-content",
+                        paddingInline:"10px",
+                        marginTop:"20px",
+                        textTransform:"capitalize",
+                        }}>
+            <span>Read More</span>
+             </a>
+        </div>
+            
+            {/* <p>
             In this landscape, the Maun mela and the Chr Maun, are festivals during which fish are hunted using traditional plat powder called Timur (or Timru) or Maun. During these festivals, Maun and Chor Maun, fish are killed rampantly along with other biodiversity. 
             The society is working to create awareness about the adverse effects of the Maun mela.
-            </p>
+            </p> */}
+            
+          </div>
+          <div className="col-lg-6">
+            <div className="video-area style--two mb-50 mb-lg-0">
+              <img
+                src="assets/img/conservation/conservation.jpg"
+                data-rjs={2}
+                alt=""
+                data-rjs-processed="true"
+              />{" "}
+            </div>
           </div>
         </div>
       </div>
@@ -60,4 +84,4 @@ function Conservation({}: Props): ReactElement {
   );
 }
 
-export default Conservation;
+export default ConservationHome;

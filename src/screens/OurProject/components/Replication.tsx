@@ -41,17 +41,8 @@ function Replication({}: Props): ReactElement {
           >
             Our Experience
           </h3>{" "}
-          <h2> Replication and Scaling up</h2>{" "}
-          <p>
-            Global Parli is currently also working towards replicating the model
-            across the Nation. We have initiated talks for planting fruit trees
-            at many other places throughout India. These would be over and above
-            3 million plantations.
-          </p>
-          <p>
-            So far, we have began the discussions of replicating and scaling
-            Global Parli’s work in the following areas:
-          </p>
+          <h2> Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium facere vitae repellat rem, nulla libero. Quis deserunt fugiat provident voluptatibus explicabo perferendis impedit! Accusamus at nobis reprehenderit culpa sint cum?</h2>{" "}
+          
           <br />
         </div>
 

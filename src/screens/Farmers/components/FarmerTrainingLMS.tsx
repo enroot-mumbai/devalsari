@@ -23,15 +23,12 @@ function FarmerTrainingLMS({ }: Props): ReactElement {
 
                     <div className="col-lg-6">
                         <h2 className={"mb-20"}>
-                            Farmer Training LMS
                         </h2>
                         <p>
-                            Farmer Training LMS by Global Parli is a dedicated training portal for rural farmers in India which provides customized, byte sized learning content which aims at empowering farmers and ultimately increase their income.
                         </p>
                         <ul className="list-unstyled list-check">
                             <li>
                                 <i className="fa fa-check" aria-hidden="true" />
-                                Demonstrative videos for different stages of plant growth in local languages.
                             </li>
                             <li>
                                 <i className="fa fa-check" aria-hidden="true" />
@@ -39,7 +36,6 @@ function FarmerTrainingLMS({ }: Props): ReactElement {
                             </li>
                             <li>
                                 <i className="fa fa-check" aria-hidden="true" />
-                                Crop wise economical calculations
                             </li>
                             <li>
                                 <i className="fa fa-check" aria-hidden="true" />
@@ -47,7 +43,6 @@ function FarmerTrainingLMS({ }: Props): ReactElement {
                             </li>
                             <li>
                                 <i className="fa fa-check" aria-hidden="true" />
-                                Calendar for different stages of growth and processes
                             </li>
                             <li>
                                 <i className="fa fa-check" aria-hidden="true" />
@@ -75,7 +70,7 @@ function FarmerTrainingLMS({ }: Props): ReactElement {
                         <div className="col-12 mt-20">
                             <div className="section-title text-center">
                                 <a
-                                    href="https://training.globalparli.org/"
+                                    href="/"
                                     target="_blank"
                                     //data-toggle="modal"
                                     //data-target="#appointmentModalForm"

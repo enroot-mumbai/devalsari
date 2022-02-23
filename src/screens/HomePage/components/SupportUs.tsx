@@ -2,15 +2,15 @@ import React, { ReactElement } from "react";
 
 interface Props {}
 
-function TrickleDown({}: Props): ReactElement {
+function SupportUs({}: Props): ReactElement {
 
   return (
     <div
-      id="rural-economic-transformation"      
+      id="support-us"      
       className="pt-60 pb-60 section-pattern bg-img"
       style={{
         backgroundImage:
-          'url("/assets/img/home/Papnashi.jpg")',
+          'url("/assets/img/home/image3.jpg")',
         backgroundRepeat: "no-repeat",
         backgroundAttachment: "fixed",
         position: "relative",
@@ -31,7 +31,18 @@ function TrickleDown({}: Props): ReactElement {
       <div className="row">
         <div className="col-12">
           <div className="section-title text-center text-white">
-            <h3
+          <a href="/joinus">
+            <h2>How you can Support the Society </h2></a>
+            <br />
+            <a href="/joinus">
+            <img
+              style={{ marginTop: "24px", maxHeight: "20vh",padding:"20px"}}
+              src={"/assets/img/home/love.png"}
+            /></a>
+            <br />
+            <br />
+            <a href="/joinus">
+            <h3 
               style={{
                 fontFamily: "Caveat, cursive",
                 fontWeight: "bolder",
@@ -39,14 +50,9 @@ function TrickleDown({}: Props): ReactElement {
                 fontSize: "36px",
               }}
             >
-              Trickle down effect
-            </h3>
-            <h2>Rural Economic Transformation</h2>
-            <br />
-            <img
-              style={{ marginTop: "24px", maxHeight: "70vh" }}
-              src={"/assets/img/home/TrickleDownWhite.svg"}
-            />
+              Know more
+            </h3></a>
+           
           </div>
         </div>
       </div>
@@ -54,4 +60,4 @@ function TrickleDown({}: Props): ReactElement {
   );
 }
 
-export default TrickleDown;
+export default SupportUs;

@@ -46,7 +46,7 @@ export default function Footer(props: any) {
                       </p>
                       <span>Contact mail</span>
                       <p>
-                        <a href="mailto:connect@globalparli.org" target="_top">
+                        <a href="mailto:develsari@gmail.com" target="_top">
                         develsari@gmail.com
                         </a>
                       </p>

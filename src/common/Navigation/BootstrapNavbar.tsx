@@ -10,12 +10,13 @@ export default function NavbarComponent(props: any) {
   const router = useRouter();
   let menuItems = [
     { id: 0, name: "Home", path: "/", dropDownLinks: [
-      { id: 1, name: "About Us", path: "/#about" },
-      { id: 2, name: "Ecotourism & Homestay", path: "/#ecotour" },
+      { id: 1, name: "About the Society", path: "/#about" },
+      { id: 2, name: "Conservation at Devalsari", path: "/#conservation" },
+      { id: 2, name: "DERC", path: "/#derc" },
       { id: 3, name: "Bee-keeping", path: "/#beekeeping" },
       { id: 4, name: "Devalsari Protection", path: "/#devalsariParyavaran" },
-      { id: 5, name: "About the society", path: "/#about" },
       { id: 6, name: "Partners", path: "/#partners" },
+      { id: 6, name: "Support Us", path: "/#support-us" },
     ], },
     { id: 1, name: "About Us", path: "/about", dropDownLinks: [
       { id: 1, name: "About the society", path: "/about#aboutsociety" },

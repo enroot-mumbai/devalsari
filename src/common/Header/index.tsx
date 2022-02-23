@@ -4,18 +4,7 @@ export default function Header() {
   return (
     <Head>
       <meta charSet="utf-8" />
-      {/* <meta name="keywords" content="GlobalParli,mayankgandhi,Farmers,rural development,Indian farmers,rural economy,mass plantation,environment
-      ,innovation,technology,marketing,transformation,development,rural india,green india,climate change,economy,income,inspiration,motivation,volunteering
-      ,farmers first,new India,better india,success stories,Happy farmers,Smiling farmers,farmers in india,what do farmers do,farmers meaning,farmers login,
-      importance of farmers,types of farmers,farmers market,farmers finance,help farmers india" /> */}
-{/* 
-      <meta name="viewport" content="width=device-width, initial-scale=1" />
-      <meta name="robots" content="index,follow"/>
-      <meta name="theme-color" content="#000000" /> */}
       
-      {/* <link rel="apple-touch-icon" href="/logocircle.png" /> */}
-
-      {/* Web Fonts */}
       <link
         rel="stylesheet"
         href="https://fonts.googleapis.com/css?family=Muli%7CRubik:400,400i,500,700"

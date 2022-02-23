@@ -14,7 +14,7 @@ function Parnter({}: Props): ReactElement {
                 <div className="col-12">
                     <div className="section-title text-center">
                     {/* <h3 style={{fontFamily:'Caveat, cursive',fontWeight:'bolder',letterSpacing:1.3,fontSize:'36px'}}>Partners</h3> */}
-                    <h2>Partner Organisation</h2>
+                    <h2>Partner Organisations</h2>
                     <p style={{color:'#000',fontStyle:'italic'}}> </p>
                     </div>
                 </div>

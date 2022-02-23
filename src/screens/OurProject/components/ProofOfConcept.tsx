@@ -10,7 +10,7 @@ function abb({}: Props): ReactElement {
       imagePath:"/assets/img/illustrations/360.svg",
       content:
         "Winning hearts and restyling mindsets by creating a movement of change for farmers through 360° development.",
-      linkPath:"https://www.globalparli.org/achievements#all-round"
+      linkPath:""
     },
     {
       id: 2,
@@ -18,7 +18,7 @@ function abb({}: Props): ReactElement {
       imagePath:"/assets/img/illustrations/Rivers.svg",
       content:
         "Water harvesting and its management to ensure water security. Reducing dependency on rain-fed agriculture.",
-      linkPath: "https://www.globalparli.org/achievements#water"
+      linkPath: ""
     },
     {
       id: 3,
@@ -26,7 +26,7 @@ function abb({}: Props): ReactElement {
       imagePath:"/assets/img/illustrations/MassPlantations.svg",
       content:
         "Mass plantation by motivating farmers to change cropping patterns to horticulture using training, knowledge, and technology.",
-      linkPath: "https://www.globalparli.org/achievements#2020"
+      linkPath: "/achievements#2020"
     },
   ];
   return (

@@ -1,12 +1,13 @@
 import React, { ReactElement } from "react";
 import AwardsData from "./../../../data/AwardsData.json";
 import { Swiper, SwiperSlide } from "swiper/react";
+import { Autoplay, Pagination, Navigation } from "swiper";
 
 interface Props {}
 
 function Awards({}: Props): ReactElement {
   return (
-    <section id="awards" className="pt-60 pb-120">
+    <section id="awards" className="pt-20 pb-120">
       <div className="container">
         <div className="row">
           <div className="col-12">
@@ -32,10 +33,17 @@ function Awards({}: Props): ReactElement {
         </div>
         <div className="row">
           <Swiper
-            spaceBetween={0}
-            slidesPerView={3}
-            navigation
-            pagination={{ clickable: true }}
+            spaceBetween={1}
+            centeredSlides={true}
+            autoplay={{
+              delay: 10000,
+              disableOnInteraction: false
+            }}
+            pagination={{
+              clickable: true
+            }}
+            navigation={true}
+            modules={[Autoplay, Pagination, Navigation]}
           >
             {AwardsData.map((award) => {
               return (
@@ -44,7 +52,7 @@ function Awards({}: Props): ReactElement {
                     <div className="icon">
                       <img
                         src={award.imagePath}
-                        data-rjs={1}
+                        data-rjs={6}
                         alt=""
                         data-rjs-processed="true"
                         style={{ height: "360px",objectFit:"cover" }}
