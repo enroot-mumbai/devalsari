@@ -27,36 +27,7 @@ function ContactInfo({}: Props): ReactElement {
               <div className="row text-left">
                 <div className="col-sm-6 col-lg-12 single-contact-info media align-items-center">
                   <div className="image">
-                    <svg
-                      xmlns="http://www.w3.org/2000/svg"
-                      xmlnsXlink="http://www.w3.org/1999/xlink"
-                      width="50px"
-                      height="43px"
-                      className="svg replaced-svg"
-                      viewBox="0 0 43px 50px"
-                    >
-                      <path
-                        fillRule="evenodd"
-                        fill="rgb(251, 36, 117)"
-                        d="M48.677,43.006 C48.507,43.006 48.341,42.973 48.179,42.909 L36.446,38.175 L25.461,42.924 L25.388,42.942 C25.271,42.983 25.130,43.006 25.000,43.006 C24.872,43.006 24.743,42.984 24.607,42.939 L24.522,42.921 L24.481,42.900 L13.553,38.175 L1.821,42.910 C1.660,42.973 1.493,43.006 1.327,43.006 C1.062,43.006 0.805,42.925 0.582,42.772 C0.217,42.523 0.000,42.109 0.000,41.667 L0.000,6.257 C0.000,5.707 0.327,5.219 0.835,5.015 L13.185,0.031 L13.251,0.025 C13.343,0.005 13.381,-0.004 13.423,-0.008 L13.590,-0.016 C13.629,-0.016 13.689,-0.014 13.741,-0.008 L13.843,0.006 L13.879,0.023 L13.949,0.044 L13.995,0.044 L14.054,0.070 L14.081,0.075 L25.000,4.804 L35.969,0.059 L36.180,0.009 L36.299,-0.011 C36.330,-0.014 36.384,-0.016 36.432,-0.016 C36.485,-0.016 36.565,-0.016 36.655,0.006 L36.799,0.040 L36.913,0.076 L37.024,0.119 L49.235,5.871 C49.701,6.086 50.000,6.561 50.000,7.080 L50.000,41.667 C50.000,42.107 49.785,42.519 49.425,42.770 C49.193,42.925 48.938,43.006 48.677,43.006 ZM2.655,7.164 L2.655,39.688 L12.245,35.819 L12.245,3.294 L2.655,7.164 ZM37.755,35.819 L47.345,39.688 L47.345,7.931 L37.755,3.417 L37.755,35.819 ZM14.900,35.844 L23.673,39.636 L23.673,7.143 L14.900,3.346 L14.900,35.844 ZM26.327,7.139 L26.327,39.636 L35.100,35.844 L35.100,3.346 L26.327,7.139 Z"
-                      />
-                    </svg>
-                  </div>
-                  <div className="media-body">
-                    <h4>
-                      <a href ="https://www.google.com/maps/place/Devalsari+Homestay/@30.5436056,78.1827387,17z/data=!3m1!4b1!4m5!3m4!1s0x3908c4b475ec7b69:0xe5fc70bc68b26cfe!8m2!3d30.543601!4d78.1849274" target="_blank">
-                      Arun Prasad Gaur, President
-                      </a>
-                      </h4>
-                    <p>
-Kesar Singh, Nature Guide & Homestay,
-Devalsari Environment Protection and Technology Development Society
-                    </p>
-                  </div>
-                </div>
-                <div className="col-sm-6 col-lg-12 single-contact-info media align-items-center">
-                  <div className="image">
-                    <svg
+                  <svg
                       xmlns="http://www.w3.org/2000/svg"
                       xmlnsXlink="http://www.w3.org/1999/xlink"
                       width="51px"
@@ -72,17 +43,24 @@ Devalsari Environment Protection and Technology Development Society
                     </svg>
                   </div>
                   <div className="media-body">
-                    <h4>Phone</h4>
-                    <p>
-                      <a href="tel: 91 84770 91851">+91 8477091851</a> 
+                    <h4>
+                      <a href ="https://www.google.com/maps/place/Devalsari+Homestay/@30.5436056,78.1827387,17z/data=!3m1!4b1!4m5!3m4!1s0x3908c4b475ec7b69:0xe5fc70bc68b26cfe!8m2!3d30.543601!4d78.1849274" target="_blank">
+                      Arun Prasad Gaur, President
+                      </a>
+                      </h4>
+                      <a href="tel: 91 86506 45385">+91 8650645385</a> 
+                      <p>
+                      <a href="mailto: arunapis1@gmail.com">arunapis1@gmail.com</a>
                     </p>
+                    {/* <p>
+                    
+Devalsari Environment Protection and Technology Development Society
+                    </p> */}
                   </div>
                 </div>
                 <div className="col-sm-6 col-lg-12 single-contact-info media align-items-center">
-                  
                   <div className="image">
-                    
-                    <svg
+                  <svg
                       xmlns="http://www.w3.org/2000/svg"
                       xmlnsXlink="http://www.w3.org/1999/xlink"
                       width="50px"
@@ -95,15 +73,36 @@ Devalsari Environment Protection and Technology Development Society
                         fill="rgb(251, 36, 117)"
                         d="M48.720,44.937 L1.320,45.000 C1.320,45.000 1.319,45.000 1.319,45.000 C0.979,45.000 0.654,44.870 0.414,44.640 C0.174,44.409 0.039,44.095 0.038,43.768 L-0.000,17.027 C-0.000,17.020 0.002,17.013 0.002,17.006 C0.008,16.621 0.199,16.244 0.553,16.009 L7.745,11.220 L7.745,6.142 C7.745,5.461 8.319,4.909 9.026,4.909 L17.224,4.909 L24.275,0.214 C24.714,-0.079 25.296,-0.077 25.734,0.216 L32.740,4.909 L40.974,4.909 C41.681,4.909 42.254,5.461 42.254,6.142 L42.254,11.280 L49.411,16.074 C49.667,16.245 49.838,16.490 49.915,16.759 C49.944,16.822 49.961,16.931 49.961,17.003 L49.999,43.702 C50.000,44.383 49.427,44.936 48.720,44.937 ZM44.900,42.475 L25.019,27.618 L5.066,42.528 L44.900,42.475 ZM7.745,14.219 L3.532,17.024 L7.745,19.830 L7.745,14.219 ZM2.564,19.380 L2.595,41.252 L18.059,29.697 L2.564,19.380 ZM25.001,2.730 L21.729,4.909 L28.254,4.909 L25.001,2.730 ZM39.693,7.376 L10.306,7.376 L10.306,21.535 L20.182,28.110 L24.234,25.082 C24.701,24.734 25.336,24.746 25.786,25.070 C25.792,25.075 25.797,25.078 25.804,25.082 L29.826,28.089 L39.693,21.480 L39.693,7.376 ZM42.254,14.285 L42.254,19.765 L46.345,17.025 L42.254,14.285 ZM47.403,19.321 L31.947,29.673 L47.435,41.247 L47.403,19.321 ZM15.051,19.958 C15.051,19.277 15.624,18.724 16.331,18.724 L33.668,18.724 C34.375,18.724 34.949,19.277 34.949,19.958 C34.949,20.639 34.375,21.192 33.668,21.192 L16.331,21.192 C15.624,21.192 15.051,20.639 15.051,19.958 ZM33.668,14.777 L16.331,14.777 C15.624,14.777 15.051,14.225 15.051,13.544 C15.051,12.862 15.624,12.310 16.331,12.310 L33.668,12.310 C34.375,12.310 34.949,12.862 34.949,13.544 C34.949,14.225 34.375,14.777 33.668,14.777 Z"
                       />
-                    </svg>
+                    </svg> 
                   </div>
                   <div className="media-body">
+                  <h4>
+                      <a href ="https://www.google.com/maps/place/Devalsari+Homestay/@30.5436056,78.1827387,17z/data=!3m1!4b1!4m5!3m4!1s0x3908c4b475ec7b69:0xe5fc70bc68b26cfe!8m2!3d30.543601!4d78.1849274" target="_blank">
+                      Kesar Singh, Nature Guide & Homestay,
+                      </a>
+                      </h4>
+                      <a href="tel: 91 84770 91851">+91 8477091851</a> 
+                    <p>
+                    <p>
+                      <a href="mailto: develsari@gmail.com">develsari@gmail.com</a>
+                    </p>
+                      
+                    </p>
+                  </div>
+                </div>
+                <div className="col-sm-6 col-lg-12 single-contact-info media align-items-center">
+                  
+                  <div className="image">
+                    
+                     
+                  </div>
+                  {/* <div className="media-body">
                     
                     <h4>Email</h4>
                     <p>
                       <a href="mailto: develsari@gmail.com">develsari@gmail.com</a>
                     </p>
-                  </div>
+                  </div> */}
                 </div>
                 
               </div>

@@ -4,13 +4,12 @@ interface Props {}
 
 function News({}: Props): ReactElement {
   return (
-    <section className="pt-120 pb-120">
+    <section className="pt-50 pb-120">
       <div className="container">
         <div className="row">
           <div className="col-12">
-            <div className="section-title text-center">
-              <h3 style={{fontFamily:'Raleway',fontWeight:'bolder',letterSpacing:1.3,fontSize:'36px'}}></h3> 
-              <h2>Devalsari in the PRESS</h2>
+            <div className="sec-title text-center">
+              <h2 >Devalsari in the PRESS</h2>
             </div>
           </div>
         </div>
@@ -28,6 +27,7 @@ function News({}: Props): ReactElement {
                         data-rjs-processed="true"
                         width={540}
                         height={300}
+                        style={{borderTopStyle:"solid", borderWidth:"0.4px"}}
                         />
                     </div>
 

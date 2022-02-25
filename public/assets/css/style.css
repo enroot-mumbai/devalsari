@@ -472,6 +472,9 @@ body {
 .section-title h2 {
   margin-top: 10px;
 }
+.sec-title h2 {
+  margin-top: 10px;
+}
 
 .mt-20 {
   margin-top: 20px;
@@ -1735,6 +1738,16 @@ blockquote {
   font-size: 44px;
   line-height: 1.23;
 }
+.section-title1 h2 {
+  font-size: 44px;
+  line-height: 1.23;
+}
+.sec-title h2 {
+  font-size: 44px;
+  line-height: 1.23;
+  margin-bottom: 30px;
+  margin-top: 40px;
+}
 
 .section-title p {
   font-size: 18px;
@@ -1768,6 +1781,13 @@ blockquote {
   .section-title h2 {
     font-size: 40px;
   }
+  .section-title1 h2 {
+    font-size: 40px;
+  }
+  .sec-title h2 {
+    font-size: 40px;
+    margin-top: 50px;
+  }
   .section-title p {
     margin-top: 28px;
   }
@@ -1779,6 +1799,14 @@ blockquote {
   }
   .section-title h2 {
     font-size: 30px;
+  }
+  .section-title1 h2 {
+    font-size: 30px;
+  }
+  .sec-title h2 {
+    font-size: 30px;
+    margin-top: 40px;
+
   }
 }
 
@@ -3892,3 +3920,5 @@ blockquote {
 .child-nav-mr > a {
   margin-right: 24px;
 }
+
+

@@ -7,7 +7,7 @@ interface Props {}
 
 function Awards({}: Props): ReactElement {
   return (
-    <section id="awards" className="pt-20 pb-120">
+    <section id="awards" className=" pb-120">
       <div className="container">
         <div className="row">
           <div className="col-12">

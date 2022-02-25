@@ -132,7 +132,7 @@ function Team({ }: Props): ReactElement {
                         />
                         <div className="info-front text-center">
                           <h3 className={"mb-10 mt-20"} style={{ color: "#4d4d4d" }}>{teams.name}</h3>
-                          <p> {teams.designation} </p>
+                          <p className="text-center"> {teams.designation} </p>
                         </div>
                       </div>
                     </div>

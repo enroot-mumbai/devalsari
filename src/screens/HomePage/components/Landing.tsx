@@ -17,7 +17,7 @@ export default function Landing({}: Props): ReactElement {
                 src="assets\img\mandir.JPG"
                 alt="Devalsari"
                 width={"100%"}
-                style = {{maxHeight:"80vh",objectFit:"cover"}}
+                style = {{maxHeight:"90vh",objectFit:"cover"}}
                 
               />
               <div className="centered text-center">

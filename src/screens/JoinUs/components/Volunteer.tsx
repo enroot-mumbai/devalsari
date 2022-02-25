@@ -80,11 +80,11 @@ function Volunteer({}: Props): ReactElement {
                           }}
                         >
                           <i
-                            className={"fa fa-whatsapp fa-lg"}
+                            className={"fa fa-envelope fa-lg"}
                             aria-hidden="true"
                             style={{ color: "green"}}
                           />
-                          <span>Join Whatsapp Group</span>
+                          <span style={{textTransform:"lowercase"}}>develsari@gmail.com</span>
                         </a>
                         </div>
                     </div>

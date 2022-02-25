@@ -26,6 +26,7 @@ export default function NavbarComponent(props: any) {
     ], },
     { id: 2, name: "Gallery", path: "/gallery" },
     { id: 6, name: "Devalsari in Press", path: "/media" },
+    { id: 6, name: "Events", path: "/" },
     { id: 7, name: "Contact", path: "/joinus", 
       // dropDownLinks: [
       //   { id: 1, name: "Volunteer", path: "/joinus"},

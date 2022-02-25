@@ -24,12 +24,12 @@ export default function Footer(props: any) {
               <div className="col-lg-3 col-sm-6">
                 <div className="widget widget_contact_info">
                   <div className="widget-logo d-flex justify-content-center">
-                    <Image
+                   <a href="/"> <Image
                       src={"/assets/img/logobg.png"}
                       alt="Logo"
                       height={72}
                       width={72}
-                    />
+                    /></a>
                     <div style={{ width: "24px" }}></div>
                     {/* <Image
                       src={"/mglogo.png"}
@@ -151,9 +151,7 @@ export default function Footer(props: any) {
                     <a href="https://enrootmumbai.in/"
                       target="_blank">Made with ♥ by Enroot Mumbai</a>
                   </span>
-                  {/* <span style={{ display: "block" }}>
-                    Made with ♥ in Mumbai for Mumbai
-                  </span> */}
+                  
                 </div>
               </div>
             </div>

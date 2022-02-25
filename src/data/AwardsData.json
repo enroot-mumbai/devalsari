@@ -17,14 +17,10 @@
     },
     {
         "id":5,
-        "imagePath":"/assets/img/awards/Award5.jpg"
-    },
-    {
-        "id":6,
         "imagePath":"/assets/img/awards/Award6.jpg"
     },
     {
-        "id":7,
+        "id":6,
         "imagePath":"/assets/img/awards/Award7.jpg"
     }
 ]

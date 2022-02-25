@@ -6,20 +6,21 @@ function AboutUs({}: Props): ReactElement {
   const About = [
     {
       id: 1,
-      title: "Bee-keeping",
-      imagePath:"/assets/img/illustrations/beehive.png",
-      content:
-        "The society hopes to revive bee-keeping as an alternate livelihood in Uttarakhand through honey production, promote bee conservation.  ",
-      linkPath:"/beekeeping"
-    },
-    {
-      id: 2,
       title: "Ecotourism",
       imagePath:"/assets/img/illustrations/Rivers.svg",
       content:
         "The Society can offer ecotourism packages for nature tourism and treks to Nag Tibba. Trained nature and trekking guides are available to conduct these activities. ",
       linkPath: "/ecotourism"
     },
+    {
+      id: 2,
+      title: "Bee-keeping",
+      imagePath:"/assets/img/illustrations/beehive.png",
+      content:
+        "The society hopes to revive bee-keeping as an alternate livelihood in Uttarakhand through honey production, promote bee conservation.  ",
+      linkPath:"/beekeeping"
+    },
+   
     {
       id: 3,
       title: "Nature Conservation",
@@ -31,21 +32,13 @@ function AboutUs({}: Props): ReactElement {
   ];
   
   return (
-    <section id="about" className="pt-120 pb-40">
+    <section id="about" className="pt-10 pb-0">
       <div className="container">
         <div className="row">
           <div className="col-12">
             <div className="section-title">
-              <h3
-                style={{
-                fontFamily: "Raleway", 
-                fontWeight: "bolder", 
-                letterSpacing: 1, 
-                fontSize: "36px", 
-                textAlign:"center", }}>                
-
-              </h3>
-              <h2>About the Society</h2>          
+           
+              <h2 style={{marginBottom:"-20px"}}>About the Society</h2>          
              </div>
           </div>
         </div>

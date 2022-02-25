@@ -17,6 +17,15 @@
     },
     {
       "id": 3,
+      "source": "Sanctuary Nature Foundation",
+      "date": "",
+      "headline": "A 29-year-old man from the Bangsil village, Tehri Garhwal District, Uttarakhand, Arun Prasad is the messiah of sustainable eco-tourism in his Himalayan village.",
+      "URL": 
+      "https://sanctuarynaturefoundation.org/award/arun-gour",
+      "imagePath":"/assets/img/news/news15.png"
+    },
+    {
+      "id": 4,
       "source": "Jagran News",
       "date": "1/25/2019",
       "headline": "यहां बसता है तितलियों का रंग बिरंगा संसार, आयोजित होगा महोत्सव",
@@ -24,29 +33,22 @@
       "imagePath":"/assets/img/news/news3.png"
     },
     {
-      "id": 4,
-      "source": "The Pioneer",
-      "date": "05/13/2019",
-      "headline": "Sensitive & slow at Devalsari — A tourism model for hills",
-      "URL": "https://www.dailypioneer.com/2019/state-editions/sensitive---slow-at-devalsari-----a-tourism-model-for-hills.html",
-      "imagePath":"/assets/img/news/news4.png"
+      "id": 5,
+      "source": "News Post",
+      "date": "06/02/2019",
+      "headline": "Project Devalsari: Home away from Home",
+      "URL": 
+      "https://www.newspost.live/en/project-devalsari-home-away-home/",
+      "imagePath":"/assets/img/news/news16.png"
     },
     
     {
-      "id": 5,
+      "id": 6,
       "source": "Hindustan Times",
       "date": "10/11/2020",
       "headline": "Rare day-flying moth sighted in Uttarakhand’s Garhwal Himalayas for first time",
       "URL": "https://www.hindustantimes.com/dehradun/uttarakhand-rare-day-flying-moth-sighted-in-uttarakhand-s-garhwal-himalayas-for-first-time/story-qqu6ZdNw3y7DjwH9WPQOHM.html",
       "imagePath":"/assets/img/news/news5.png"
-    },
-    {
-      "id": 6,
-      "source": "Sanctuary Asia",
-      "date": "02/01/2020",
-      "headline": "It all comes back to Honeybees",
-      "URL": "https://drive.google.com/file/d/1gdNp8VYWrBCPf-NFFK55uMw4bdJKsorf/view?usp=sharing",
-      "imagePath":"/assets/img/news/news6.png"
     },
     {
       "id": 7,
@@ -74,26 +76,65 @@
     },
     {
       "id": 10,
+      "source": "Sanctuary Asia",
+      "date": "02/01/2020",
+      "headline": "It all comes back to Honeybees",
+      "URL": "https://drive.google.com/file/d/1gdNp8VYWrBCPf-NFFK55uMw4bdJKsorf/view?usp=sharing",
+      "imagePath":"/assets/img/news/news6.png"
+    },
+    {
+      "id": 11,
+      "source": "Outlook India",
+      "date": "",
+      "headline": "A local organisation is countering urban migration in Devalsari by promoting beekeeping and eco-tourism in the region, which is blessed with as many as 120 species of butterfly and some remarkable animals",
+      "URL": "https://www.outlookindia.com/outlooktraveller/explore/amp/65918/devalsari-home-of-the-bees-and-the-butterflies",
+      "imagePath":"/assets/img/news/news13.png"
+    },
+    {
+      "id": 12,
       "source": "Danik Jagran",
       "date": "02/01/2016",
       "headline": "देवलसारी बनेगी उत्तराखंड की पहली बायोडायवर्सिटी हैरिटेज साइट",
       "URL": "https://m.jagran.com/uttarakhand/dehradun-city-devlasari-of-tehri-will-become-uttarakhands-first-biodiversity-heritage-site-21324425.html",
       "imagePath":"/assets/img/news/news10.png"
     },
+   
     {
-      "id": 11,
-      "source": "Hindustan Times",
-      "date": "10/11/2021",
-      "headline": "Rare day-flying moth sighted in Uttarakhand’s Garhwal Himalayas for first time",
-      "URL": "https://www.hindustantimes.com/dehradun/uttarakhand-rare-day-flying-moth-sighted-in-uttarakhand-s-garhwal-himalayas-for-first-time/story-qqu6ZdNw3y7DjwH9WPQOHM_amp.html",
-      "imagePath":"/assets/img/news/news11.png"
-    },
-    {
-      "id": 12,
+      "id": 13,
       "source": "Times of India",
       "date": "12/02/2016",
       "headline": "Villages near Tehri Lake, Devalsari and Ranikhet to be devel",
       "URL": "https://timesofindia.indiatimes.com/city/dehradun/villages-near-tehri-lake-devalsari-and-ranikhet-to-be-developed-for-eco-tourism/articleshow/56273013.cms",
       "imagePath":"/assets/img/news/news12.png"
+    },
+   
+    {
+      "id": 14,
+      "source": "The Pioneer",
+      "date": "05/13/2019",
+      "headline": "Sensitive & slow at Devalsari — a tourism model for hills",
+      "URL": 
+      "https://www.dailypioneer.com/2019/state-editions/sensitive---slow-at-devalsari-----a-tourism-model-for-hills.html",
+      "imagePath":"/assets/img/news/news14.png"
+    },
+    
+   
+    {
+      "id": 15,
+      "source": "Times of India",
+      "date": "06/14/2019",
+      "headline": "Villagers near Mussoorie divided over cutting trees for building roads",
+      "URL": 
+      "http://timesofindia.indiatimes.com/articleshow/53216420.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst",
+      "imagePath":"/assets/img/news/news17.png"
+    },
+    {
+      "id": 16,
+      "source": "The Better India",
+      "date": "",
+      "headline": "मधुमक्खियों को बचाकर किया जंगल का संरक्षण, तितली-पार्क शुरू कर बढ़ाई उत्तराखंड की शान!",
+      "URL": 
+      "https://hindi.thebetterindia.com/26171/arun-gour-honeybee-rescue-jungle-uttarakhand-butterfly-park-best-wild-life-service-award/amp/",
+      "imagePath":"/assets/img/news/news18.png"
     }
   ]

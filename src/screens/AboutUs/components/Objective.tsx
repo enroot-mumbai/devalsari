@@ -4,17 +4,11 @@ interface Props {}
 
 function Objective({}: Props): ReactElement {
   return (
-    <section id="objective" className="pt-60 pb-60">
+    <section id="objective" className="pt-0 ">
       <div className="container">
         <div className="row">
           <div className="col-12">
             <div className="section-title text-center">
-              <h3 style={{
-              fontFamily:'Raleway',
-              fontWeight:'bolder',
-              letterSpacing:1.3,
-              fontSize:'36px'}}>
-                </h3>
                 <h2>The Society’s Objectives</h2>
             </div>
           </div>
