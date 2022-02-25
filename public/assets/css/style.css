@@ -228,7 +228,7 @@ a {
 }
 
 a:hover {
-  color: #1488cc;
+  color: #69be94;
 }
 
 a,
@@ -266,7 +266,7 @@ h3 span,
 h4 span,
 h5 span,
 h6 span {
-  color: #1488cc;
+  color: #69be94;
 }
 
 p:last-child {
@@ -654,7 +654,7 @@ body {
 .pricing-navtab .nav-tabs .nav-link h4,
 .project-nav li.active,
 .single-team-member .team-info h4 {
-  color: #1488cc;
+  color: #69be94;
 }
 
 .c1-bg,
@@ -665,7 +665,7 @@ body {
 #menu-button.menu-opened span::after,
 -thumb.offcanvas-wrapper::-webkit-scrollbar,
 .single-blog-item .blog-hover {
-  background-color: #1488cc;
+  background-color: #69be94;
 }
 
 .c1-bo,
@@ -677,7 +677,7 @@ body {
 blockquote,
 .widget.widget_tag_cloud .tagcloud a:hover,
 .about-nav-tab .nav-tabs .nav-link.active {
-  border-color: #1488cc !important;
+  border-color:#69be94 !important;
 }
 
 .heading,
@@ -851,12 +851,12 @@ body,
     linear,
     top,
     bottom,
-    color-stop(0%, #1488cc),
+    color-stop(0%, #69be94),
     color-stop(100%, #388E3C)
   );
-  background: -webkit-linear-gradient(0deg, #1488cc 0%, #388E3C 100%);
-  background: -o-linear-gradient(0deg, #1488cc 0%, #388E3C 100%);
-  background: linear-gradient(0deg, #1488cc 0%, #388E3C 100%);
+  background: -webkit-linear-gradient(0deg, #69be94 0%, #388E3C 100%);
+  background: -o-linear-gradient(0deg, ##69be94 0%, #388E3C 100%);
+  background: linear-gradient(0deg, ##69be94 0%, #388E3C 100%);
 }
 
 /* Text White */
@@ -1151,7 +1151,7 @@ body,
 .active.single-service.style--two,
 .pricing-navtab .nav-tabs .active.nav-link {
   color: #ffffff;
-  background-color: #1488cc;
+  background-color: #69be94;
 }
 
 .bg-hover-gradient:hover *,
@@ -1577,7 +1577,7 @@ blockquote {
   width: 100%;
   -webkit-animation: rotation 1s linear infinite;
   animation: rotation 1s linear infinite;
-  border: 1px solid #1488cc;
+  border: 1px solid #69be94;
   border-top: 1px solid transparent;
   border-radius: 100%;
 }
@@ -1603,8 +1603,8 @@ blockquote {
   -o-transition: 0.3s ease-in-out 0.2s;
   transition: 0.3s ease-in-out 0.2s;
   z-index: 9;
-  color: #1488cc !important;
-  background-color: rgba(211, 211, 211, 0.1) !important;
+  color: #69be94 !important;
+  background-color: rgba(100, 100, 100, 0.1) !important;
 }
 
 .btn span {
@@ -1800,7 +1800,7 @@ blockquote {
   .section-title h2 {
     font-size: 30px;
   }
-  .section-title1 h2 {
+  .section-title h2 {
     font-size: 30px;
   }
   .sec-title h2 {
@@ -3698,7 +3698,7 @@ blockquote {
 }
 
 .post-pagination .single-post-pagination .media-body a:hover path {
-  fill: #1488cc;
+  fill: #69be94;
 }
 
 .post-pagination .single-post-pagination .media-body h6 {
@@ -3921,4 +3921,19 @@ blockquote {
   margin-right: 24px;
 }
 
-
+@media only screen and (max-width: 991px) {
+    .box2{
+    order: -1;
+  }
+  .button1{
+    display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.textmt-20{
+  margin-top: -20px;
+}
+.textmt-50{
+  margin-top: -50px;
+}
+}

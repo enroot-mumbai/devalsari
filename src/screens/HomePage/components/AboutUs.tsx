@@ -32,19 +32,19 @@ function AboutUs({}: Props): ReactElement {
   ];
   
   return (
-    <section id="about" className="pt-10 pb-0">
+    <section id="about" className="pt-40">
       <div className="container">
         <div className="row">
           <div className="col-12">
             <div className="section-title">
            
-              <h2 style={{marginBottom:"-20px"}}>About the Society</h2>          
+              <h2>About the Society</h2>          
              </div>
           </div>
         </div>
         <ul className="list-unstyled list-check text-lg-left row align-items-center">
-        <div className="col-lg-6">
-        <div className="section-title text-justify">
+        <div className="col-lg-6 ">
+        <div className="section-title text-justify textmt-50" >
               <p>
               The Devalsari Environment Protection and Technology Development Society was set up to promote conservation and livelihoods
                through ecotourism and bee-keeping in Uttarakhand beginning with the Jaunpur region.
@@ -52,6 +52,7 @@ function AboutUs({}: Props): ReactElement {
               are abandoning their homes to shift to towns and urban areas abandoning traditional practices of agriculture.</p>
               The primary reasons for “playen” are reduced returns from agriculture and livestock, lack of job opportunities in the villages, poor education and health care. 
               <br />
+              <div className="button1">
                <div className="button">
                  <a href="/about"
                     className="btn"
@@ -67,11 +68,12 @@ function AboutUs({}: Props): ReactElement {
                         }}>
             <span>Read More</span>
              </a>
-        </div>
+                </div>
+                </div>
       </p>
     </div>
       </div>
-        <div className="col-lg-6">
+        <div className="col-lg-6 box2">
           <div className="video-area style--two mb-50 mb-lg-0">
             <img
                 src="assets\img\GettingThere\derc.JPG"

@@ -22,7 +22,7 @@ function DevalsariParyavaran ({}: Props): ReactElement {
         </div>
         <div className="row align-items-center"> 
           <div className="col-lg-6">
-            <div className="video-area style--two mb-50 mb-lg-0">
+            <div className="video-area style--two mb-20 textmt-20">
               <img
                 src="assets\img\home\devalsariprotection.jpg"
                 data-rjs={2}

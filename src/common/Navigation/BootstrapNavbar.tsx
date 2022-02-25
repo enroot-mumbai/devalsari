@@ -23,18 +23,12 @@ export default function NavbarComponent(props: any) {
       { id: 2, name: "The Society Objectives", path: "/about#objective" },
       { id: 3, name: "Members of the Society", path: "/about#team" },
       { id: 6, name: "Awards", path: "/about#awards" },
-    ], },
-    { id: 2, name: "Gallery", path: "/gallery" },
-    { id: 6, name: "Devalsari in Press", path: "/media" },
-    { id: 6, name: "Events", path: "/" },
-    { id: 7, name: "Contact", path: "/joinus", 
-      // dropDownLinks: [
-      //   { id: 1, name: "Volunteer", path: "/joinus"},
-      //   // { id: 2, name: "Career", path: "/joinus#careers" },
-      //   { id: 3, name: "Contact Us", path: "/joinus#contactus" },
-      // ],
-    },
-    { id: 8, name: "Donate ", path: "/donate" },
+  ], },
+    { id: 2, name: "Events", path: "/events" },
+    { id: 3, name: "Gallery", path: "/gallery" },
+    { id: 4, name: "Devalsari in Press", path: "/media" },
+    { id: 5, name: "Contact", path: "/joinus", },
+    { id: 6, name: "Donate ", path: "/donate" },
   ];
 
   const closeMenu = () => {

@@ -35,19 +35,22 @@ function index({}: Props): ReactElement {
                         <h3>
                           <span>Account Details:</span>
                         </h3>
-                        <p>
-                          <b>देवलसारी  पर्यावरण  संरक्षण  एवं  तकनीकी  विकास  समिति</b>
+                        <p style={{textAlign:"left"}}>
+                          <b>Account name -  Devalsari Paryawaran Sanrakshan awam Tekniki </b>
                           <br />
-                          Bank Name - एसबीआई
+                          Bank Name - State Bank of India 
                           <br />
-                          Branch - थात्युड
+                          Branch - Thatyur
                           <br />
-                          Current A/c - 33940424562
+                          Account Number - 33940424562
                           <br />
                           IFSC - SBIN0004529
+                          <br />
+                          MICRx - 249002251
                         </p>
-                        <div className="button">
-                 <a href="/about"
+                       
+                        {/* <div className="button">
+                 <a href="/"
                     className="btn"
                       style={{
                         display: "flex",
@@ -59,7 +62,8 @@ function index({}: Props): ReactElement {
                         textTransform:"capitalize"}}>
             <span>Donate Now</span>
              </a>
-                        </div>
+             
+                        </div> */}
                        
                       </div>
                     </div>

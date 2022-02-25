@@ -8,7 +8,7 @@ interface Props {
 
 function Parnter({}: Props): ReactElement {
     return (
-        <section id="partners" className="pt-40 pb-120 section-pattern bg-img" style={{backgroundImage: 'url("assets/img/section-pattern/price-pattern.png")'}}>
+        <section id="partners" className="pt-20 pb-120 section-pattern bg-img" style={{backgroundImage: 'url("assets/img/section-pattern/price-pattern.png")'}}>
             <div className="container">
                 <div className="row">
                 <div className="col-12">
@@ -24,7 +24,7 @@ function Parnter({}: Props): ReactElement {
                         
                         {PartnersData.map((partner)=>{
                             return(
-                                <li key={partner.id} className="col-lg-3 col-sm-6">
+                                <li key={partner.id} className="col-lg-3 col-sm-6 ">
                                     <div className={`text-center ${styles.navLink}`} data-toggle="tab" role="tab">
                                         <img src={partner.imagePath}
                                         alt={partner.name}

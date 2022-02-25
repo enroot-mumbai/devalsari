@@ -21,7 +21,7 @@ function ConservationHome({}: Props): ReactElement {
           </div>
         </div>
         <div className="row align-items-center"> 
-          <div className="col-lg-6 text-justify text-lg-left">
+          <div className="col-lg-6 text-justify text-lg-left textmt-20" >
            
             <p>
             The Sreedev Suman Titli Park was established by the society in 2016. The society has been protecting the forest in this area resulting in a resurgence of local biodiversity.
@@ -44,7 +44,7 @@ function ConservationHome({}: Props): ReactElement {
                         - Stopping of fishing through the use of bleaching powder and electric current
                 </li>
             </ul>
-           
+           <div className="button1">
             <div className="button">
                  <a href="/conservation"
                     className="btn"
@@ -57,18 +57,19 @@ function ConservationHome({}: Props): ReactElement {
                         paddingInline:"10px",
                         marginTop:"20px",
                         textTransform:"capitalize",
+                        alignContent:"center"
                         }}>
             <span>Read More</span>
              </a>
         </div>
-            
+        </div>
             {/* <p>
             In this landscape, the Maun mela and the Chr Maun, are festivals during which fish are hunted using traditional plat powder called Timur (or Timru) or Maun. During these festivals, Maun and Chor Maun, fish are killed rampantly along with other biodiversity. 
             The society is working to create awareness about the adverse effects of the Maun mela.
             </p> */}
             
           </div>
-          <div className="col-lg-6">
+          <div className="col-lg-6 box2">
             <div className="video-area style--two mb-50 mb-lg-0">
               <img
                 src="assets/img/conservation/conservation.jpg"
