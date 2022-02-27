@@ -36,7 +36,7 @@ function AboutTheSociety({}: Props): ReactElement {
   
   return (
     <>
-    <section id="aboutsociety" className="pt-50 " style={{backgroundImage: 'url("assets/img/section-pattern/page-title.png")'}}>
+    <section id="aboutsociety" className="pt-20 " style={{backgroundImage: 'url("assets/img/section-pattern/page-title.png")'}}>
       <div className="container">
         <div className="row">
           <div className="col-12">

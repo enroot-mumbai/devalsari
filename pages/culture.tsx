@@ -5,7 +5,7 @@ import CultureFestival from "../src/screens/Culture";
 interface Props {}
 
 const meta = {
-  title: " Local Culture | Devalsari",
+  title: "Local Culture | Devalsari",
   description:"",
   keywords: "Farmers,rural development,Indian farmers,rural economy,mass plantation,environment, innovation, technology, marketing, transformation, development, rural india, green india, climate change, economy, income, inspiration, motivation, volunteering, farmers first, new India, better india, success stories, Happy farmers, Smiling farmers, farmers in india, what do farmers do, farmers meaning, farmers login,importance of farmers, types of farmers, farmers market, farmers finance, help farmers india",
   url: "",
@@ -33,7 +33,7 @@ function Culture({}: Props): ReactElement {
         <meta name="twitter:url" content={meta.url} />
         <meta name="twitter:description" content={meta.description} />
       </Head>
-      <Culture />
+      <CultureFestival />
     </div>
   );
 }
