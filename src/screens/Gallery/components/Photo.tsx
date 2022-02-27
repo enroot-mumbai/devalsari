@@ -8,7 +8,7 @@ interface Props {
 
 function Photo({ }: Props): ReactElement {
     return (
-        <section className="pt-120 pb-90" id="photos">
+        <section className="pt-130 pb-90 textmt-50" id="photos">
             <div className="container">
                 <div className="row">
                     <div className="col-12">

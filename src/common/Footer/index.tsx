@@ -5,8 +5,12 @@ import SocialMediaAccounts from "./../../data/SocialMediaAccounts.json";
 export default function Footer(props: any) {
   const FooterLinks = [
     { id: 1, link: "/about", title: "About us" },
+    { id: 6, link: "/ecotourism", title: "Ecotourism" },
+    { id: 6, link: "/beekeeping", title: "Bee Keeping" },
+    { id: 6, link: "/nature-tourism", title: "Nature" },
+    { id: 6, link: "/conservation", title: "Conservation at Devalsari" },
+    { id: 1, link: "/media", title: "Devalsari in Press" },
     { id: 4, link: "/gallery", title: "Gallery" },
-    { id: 6, link: "/media", title: "Media" },
     { id: 8, link: "/joinus#contactus", title: "Contact Us" },
   ];
   return (
@@ -23,7 +27,7 @@ export default function Footer(props: any) {
             <div className="row">
               <div className="col-lg-3 col-sm-6">
                 <div className="widget widget_contact_info">
-                  <div className="widget-logo d-flex justify-content-center">
+                  <div className="widget-logo d-flex justify-content-center button1">
                    <a href="/"> <Image
                       src={"/assets/img/logobg.png"}
                       alt="Logo"
@@ -31,18 +35,13 @@ export default function Footer(props: any) {
                       width={72}
                     /></a>
                     <div style={{ width: "24px" }}></div>
-                    {/* <Image
-                      src={"/mglogo.png"}
-                      alt="Logo"
-                      height={72}
-                      width={72}
-                    /> */}
+                
                   </div>
                   <div className="info-content  text-center">
                     <div className="single-info">
                       <span>Phone</span>
                       <p>
-                        <a href="tel:+91123456789">+91 93686 74290</a>
+                        <a href="tel:+9193686 74290">+91 93686 74290</a>
                       </p>
                       <span>Contact mail</span>
                       <p>

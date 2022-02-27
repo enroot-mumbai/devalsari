@@ -49,8 +49,6 @@ function AboutTheSociety({}: Props): ReactElement {
     </section>
       <section className="">
         <div className="container">
-        {/* <iframe src="https://prezi.com/v/embed/i1hxdotphwvk/" allow="autoplay; fullscreen" style={{width:'100%',borderRadius:'20px',height:'90vh'}}></iframe> */}
-           
            {StoryData.map((story)=>{
              return(
               <div key={story.id} className="row align-items-center justify-content-center pb-20">

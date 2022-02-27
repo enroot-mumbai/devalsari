@@ -71,7 +71,7 @@ const StoryData = [
     imagePath:'/assets/img/conservation/plantations.jpg',
     content: <p  style={{textAlign:"justify"}}>
      
-     <h4>Plantations</h4>
+     <h4>Plantations:</h4>
                 <p>The Society is involved in several tree plantations program with support from the Uttarakhand Forest Department.
                 </p>
                  
@@ -83,12 +83,11 @@ function Conservation({}: Props): ReactElement {
   
   return (
     <>
-    <section id="conservation" className="pt-120 pb-30" style={{backgroundImage: 'url("assets/img/section-pattern/page-title.png")'}}>
+    <section id="conservation" className="pt-110 pb-30" style={{backgroundImage: 'url("assets/img/section-pattern/page-title.png")'}}>
       <div className="container">
         <div className="row">
           <div className="col-12">
             <div className="section-title text-center">
-              <h3 style={{fontFamily:'Caveat, cursive',fontWeight:'bolder',letterSpacing:1.3,fontSize:'36px'}}></h3>
               <h2>Conservation at Devalsari</h2>
             </div>
           </div>

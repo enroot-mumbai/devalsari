@@ -23,10 +23,11 @@ function index({}: Props): ReactElement {
                 <div className="container">
                   <div className="row align-items-center">
                     <div className="col-lg-6">
-                      <div className="banner-content">
-                        <h1>
-                          <span> Donate us</span>
-                        </h1>
+                      <div className="section-title">
+                        <h2>
+                           Donate us
+                           
+                        </h2>
                         <p>
                           Each and every contribution matters, donate us to give
                           a boost to this movement.

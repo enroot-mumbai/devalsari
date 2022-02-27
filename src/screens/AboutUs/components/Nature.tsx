@@ -43,7 +43,7 @@ const StoryData = [
   
     return (
       <>
-      <section id="nature" className="pt-120 pb-30" style={{backgroundImage: 'url("assets/img/section-pattern/page-title.png")'}}>
+      <section id="nature" className="pt-110 pb-30" style={{backgroundImage: 'url("assets/img/section-pattern/page-title.png")'}}>
         <div className="container">
           <div className="row">
             <div className="col-12">
@@ -58,12 +58,11 @@ const StoryData = [
       </section>
         <section className="pb-60">
           <div className="container">
-          {/* <iframe src="https://prezi.com/v/embed/i1hxdotphwvk/" allow="autoplay; fullscreen" style={{width:'100%',borderRadius:'20px',height:'90vh'}}></iframe> */}
              
              {StoryData.map((story)=>{
                return(
                 <div key={story.id} className="row align-items-center justify-content-center pb-40">
-                  <div className="col-lg-6">
+                  <div className="col-lg-6 textmt-20">
                     <div className="video-area style--two mb-50 mb-lg-0">
                       <img
                         src={story.imagePath}
@@ -76,7 +75,7 @@ const StoryData = [
                     </div>
                   </div>
   
-                  <div className="col-lg-6">
+                  <div className="col-lg-6 textmt-20">
                     <div className="project-details">          
                       <div className="row justify-content-center">
                         <div className="col-lg-12">

@@ -18,11 +18,11 @@
     margin-top: 48px;
 }
 
-.singleProfile:hover {
-    box-shadow: 13px 13px 25px 2px rgba(141, 141, 141, 0.2);
-    transition: 0.3s;
-    border:none;
-}
+// .singleProfile:hover {
+//     box-shadow: 13px 13px 25px 2px rgba(141, 141, 141, 0.2);
+//     transition: 0.3s;
+//     border:none;
+// }
 
 .singleProfileBasics{
     display: flex;
@@ -44,16 +44,17 @@
 .readmoreSection{
     padding: 18px;
     border-top: 1px solid #dadce0;
-    letter-spacing: .1em;
+    letter-spacing: 1px;
     font-size: .875rem;
     font-weight: 500;
     line-height: 1.25rem;
     hyphens: auto;
     word-break: break-word;
     word-wrap: break-word;
-    color: #333333;
+    color: #69be94;
     width: 100%;
     transition: 0.3s;
+    font-weight: 800;
 }
 .readmoreSection:hover{
     cursor: pointer;

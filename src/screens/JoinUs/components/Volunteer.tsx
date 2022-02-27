@@ -20,16 +20,9 @@ function Volunteer({}: Props): ReactElement {
                 <div className="container">
                   <div className="row align-items-center">
                     <div className="col-lg-6">
-                      <div className="banner-content text-center">
-                         <h1
-                          style={{
-                            fontFamily: "Raleway",
-                            fontWeight: "bolder",
-                            letterSpacing: 1.3,
-                            fontSize: "36px",
-                          }}>
-                          How You Can Support the Society
-                        </h1> 
+                      <div className="section-title text-center">
+                        
+                        <h2>How You Can Support the Society</h2>
                         </div>
                         <div className="banner-content text-left">
                         <p>
@@ -41,7 +34,7 @@ function Volunteer({}: Props): ReactElement {
                         <p>
                         Our tourism development program has numerous packages for nature tourism, trekking, culture and cuisine. We would welcome tourists at Devalsari.
                         </p>
-
+<div className="button1">
                         <a
                           href="tel:+919368674290"
                           target="_blank"
@@ -63,12 +56,12 @@ function Volunteer({}: Props): ReactElement {
                       />
                           <span> +91 93686 74290</span>
                         </a>
+                        </div>
                         <br />
+                        <div className="button1">
                         <a
-                          href="https://chat.whatsapp.com/"
+                          href="mailto: devalsari@gmail.com"
                           target="_blank"
-                          data-toggle="modal"
-                          data-target="#appointmentModalForm"
                           className="btn"
                           style={{
                             display: "flex",
@@ -86,6 +79,7 @@ function Volunteer({}: Props): ReactElement {
                           />
                           <span style={{textTransform:"lowercase"}}>develsari@gmail.com</span>
                         </a>
+                        </div>
                         </div>
                     </div>
                     <div className="col-lg-6">

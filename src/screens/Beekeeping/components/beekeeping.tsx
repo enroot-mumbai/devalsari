@@ -26,7 +26,7 @@ function Bees({}: Props): ReactElement {
                 </div>
                 <div className="row align-items-center text-justify">
                     
-                    <div className="col-lg-6">
+                    <div className="col-lg-6 textmt-50">
                         <h2 className={"mb-20"} > </h2>
                         <p>
                         The society hopes to revive bee-keeping as an alternate livelihood in Uttarakhand through honey production, promote bee conservation and improve productivity of crops, horticulture and forest produce.  
@@ -39,8 +39,8 @@ There is need to rejuvenate bee keeping in Uttarakhand both as an alternate live
                      
                     </div>
 
-                    <div className="col-lg-6">
-                        <div className=" mb-50 mb-lg-0">
+                    <div className="col-lg-6 box2">
+                        <div className=" mb-50 mb-lg-0 ">
                         <img
                             src="assets\img\home\beekeeping.png"
                             data-rjs={2}
