@@ -20,7 +20,7 @@ export default function NavbarComponent(props: any) {
     ], },
     { id: 1, name: "About Us", path: "/about", dropDownLinks: [
       { id: 1, name: "About Devalsari", path: "/about#devalsari" },
-      { id: 2, name: "Local Culture", path: "/about#aboutsociety" },
+      { id: 2, name: "Local Culture", path: "/about#culture" },
       // { id: 1, name: "Local Festivals", path: "/about#aboutsociety" },
       { id: 5, name: "The Society Objectives", path: "/about#objective" },
       { id: 4, name: "Members of the Society", path: "/about#team" },

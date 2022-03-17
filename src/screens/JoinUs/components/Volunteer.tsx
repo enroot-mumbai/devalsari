@@ -85,7 +85,7 @@ function Volunteer({}: Props): ReactElement {
                     <div className="col-lg-6">
                       <div className="banner-image mt-50 mt-lg-0 text-center text-lg-right">
                         <img
-                          src="/assets/img/events/visit2021.jpg"
+                          src="/assets/img/events/utsav.jpg"
                           data-rjs={2}
                           alt=""
                           data-rjs-processed="true"
