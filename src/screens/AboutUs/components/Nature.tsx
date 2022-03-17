@@ -16,7 +16,8 @@ const StoryData = [
       imagePath:'/assets/img/about/bird.jpg',
       content: <p style={{textAlign:"justify"}}> <b>Birds: </b>
  The special birds that can be seen here include the Fire-capped Tit, Chukor Partridge, Striated Laughing Thrush, Spot-winged and Black-and-Yellow Grosbeak, Black-faced Warbler, Whiskered Yuhina, Golden Bush Robin, Mrs Gould’s Sunbird, Fire-tailed Sunbird and the Fire-breasted Flowerpecker amongst many others. 
-                       <br />  The partial checklist of birds at Devalsari can be downloaded here (SS to provide checklist). 
+                       <br />  The partial checklist of birds at Devalsari can be downloaded 
+                       <a href="https://drive.google.com/file/d/1Lm-RFjLTi9cnjQj0i6KKocTweOiYOs7u/view?usp=sharing" target="_blank" style={{color:"blue",}}> here. </a> 
                       <br />   We would welcome birdwatchers to document the areas avifauna.
       </p>
     },
@@ -25,7 +26,8 @@ const StoryData = [
       imagePath:'/assets/img/about/butterfly.jpg',
       content: <p style={{textAlign:"justify"}}> <b>Butterflies:  </b>
  Butterfly specialties at Devalsari include the Siren, Brown Argus, Jewel Fivering, Lepcha Bushbrown, Stately Nawab, Western Courtier, Fawn Hairstreak and the Albocerulean amongst many others.
-                      <br />       The partial checklist of butterflies at Devalsari can be downloaded here (SS to provide checklist). 
+                      <br />       The partial checklist of butterflies at Devalsari can be downloaded
+                      <a href="https://drive.google.com/file/d/1jj1w9ab74RU2vwEYUPi1XoSJUyai8GTy/view?usp=sharing" target="_blank" style={{color:"blue",}}> here. </a>  
                        <br />     We would welcome butterfly watchers to document the area’s butterfly fauna.
       </p>
     },

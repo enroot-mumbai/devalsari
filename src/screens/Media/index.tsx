@@ -13,12 +13,8 @@ interface Props {
 function index({}: Props): ReactElement {
     return (
         <div>
-            {/* <Landing/> */}
-            {/* <GroundStories/> */}
-            {/* <MediaKit/> */}
             <News/>
-            {/* <Youtube/> */}
-            {/* <Instagram/> */}
+           
         </div>
     )
 }

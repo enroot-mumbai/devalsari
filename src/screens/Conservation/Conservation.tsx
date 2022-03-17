@@ -42,7 +42,7 @@ const StoryData = [
     imagePath:'/assets/img/conservation/fishing.jpg',
     content: <p  style={{textAlign:"justify"}}>
   
-  In this landscape, the Maun mela and the Chr Maun, are festivals during which fish are hunted using traditional plat powder called Timur (or Timru) or Maun. During these festivals, Maun and Chor Maun, fish are killed rampantly along with other biodiversity. 
+  In this landscape, the Maun mela and the Chor Maun, are festivals during which fish are hunted using traditional plant powder called Timur (or Timru) or Maun. During these festivals, Maun and Chor Maun, fish are killed rampantly along with other biodiversity. 
   The society is working to create awareness about the adverse effects of the Maun mela.
   </p> 
   },

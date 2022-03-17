@@ -9,7 +9,7 @@ function News({}: Props): ReactElement {
         <div className="row">
           <div className="col-12">
             <div className="sec-title text-center">
-              <h2 >Devalsari in the PRESS</h2>
+              <h2 >Devalsari in the News</h2>
             </div>
           </div>
         </div>
