@@ -17,7 +17,29 @@ function Landing1({}: Props): ReactElement {
            <header id="showcase">
     <h1 style={{color:"white"}}>To Visit Devalsari</h1>
     <p style={{color:"white",display:"flex", textAlign:"left"}}></p>
-    <a href="/ecotourism" className="" style={{ color:"white",border:"solid",padding:"10px"}}>Know More</a>
+    <div className="button1">
+            <div className="button">
+                 <a href="/ecotourism"
+                    className="btn"
+                      style={{
+                        display: "",
+                        flexDirection: "row",
+                        justifyContent: "center",
+                        alignItems: "center",
+                        width: "fit-content",
+                        paddingInline:"10px",
+                        marginTop:"10px",
+                        textTransform:"capitalize",
+                        alignContent:"center"
+                        }}>
+            <span style={{
+              color:"white",
+              fontSize:"20px"
+              
+            }}>Know More</span>
+             </a>
+        </div>
+        </div>
   </header>
   </div>
 </div>

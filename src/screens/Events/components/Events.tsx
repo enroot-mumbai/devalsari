@@ -1,21 +1,21 @@
 import React, { ReactElement } from "react";
-import MediaData from './../../../data/MediaData.json'
+import EventData from '../../../data/EventData.json'
 interface Props {}
 
-function News({}: Props): ReactElement {
+function Events({}: Props): ReactElement {
   return (
     <section className="pt-50 pb-120">
       <div className="container">
         <div className="row">
           <div className="col-12">
             <div className="sec-title text-center">
-              <h2 >Devalsari in News</h2>
+              <h2 >Upcoming Events</h2>
             </div>
           </div>
         </div>
         <div className="row project-items grid">
          
-         {MediaData.map((item)=>{
+         {EventData.map((item)=>{
              return(
                 <div className="col-lg-4 grid-item">
                     <div className="single-project-item">
@@ -38,10 +38,13 @@ function News({}: Props): ReactElement {
                         </a>
                         </h3>{" "}
                         <p className="project-meta">
+                            Date:<span>{item.date} </span>
+                        </p>
+                        <p className="project-meta">
                             By:<span>{item.source} </span>
                         </p>
                         <a href={item.URL} target="_blank" className="btn-inline">
-                            Read More
+                            Register Now
                         </a>
                     </div>
                     </div>
@@ -57,4 +60,4 @@ function News({}: Props): ReactElement {
   );
 }
 
-export default News;
+export default Events;

@@ -1,5 +1,5 @@
 import React, { ReactElement } from 'react'
-import News from './components/News'
+import Events from './components/Events'
 
 
 interface Props {
@@ -9,7 +9,7 @@ interface Props {
 function index({}: Props): ReactElement {
     return (
         <div>
-            <News/>
+            <Events/>
            
         </div>
     )

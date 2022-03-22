@@ -1,6 +1,6 @@
 import Head from "next/head";
 import React, { ReactElement } from "react";
-import Media from "./../src/screens/Media";
+import Event from "./../src/screens/Events";
 interface Props {}
 
 const meta = {
@@ -33,7 +33,7 @@ function index({}: Props): ReactElement {
         <meta name="twitter:url" content={meta.url} />
         <meta name="twitter:description" content={meta.description} />
       </Head>
-      <Media />
+      <Event />
     </div>
   );
 }

@@ -26,8 +26,9 @@ export default function NavbarComponent(props: any) {
       { id: 4, name: "Members of the Society", path: "/about#team" },
       { id: 6, name: "Awards", path: "/about#awards" },
   ], },
-    // { id: 2, name: "Events", path: "/events" },
-    { id: 3, name: "Gallery", path: "/gallery" },
+    
+    { id: 2, name: "Gallery", path: "/gallery" },
+    { id: 3, name: "Events", path: "/events" },
     { id: 4, name: "Devalsari in News", path: "/media" },
     { id: 5, name: "Contact", path: "/joinus", },
     { id: 6, name: "Donate ", path: "/donate" },
