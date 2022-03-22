@@ -15,9 +15,9 @@ function Landing1({}: Props): ReactElement {
            
 
            <header id="showcase">
-    <h1 style={{color:"white", display:"flex"}}>To Visit Devalsari</h1>
+    <h1 style={{color:"white"}}>To Visit Devalsari</h1>
     <p style={{color:"white",display:"flex", textAlign:"left"}}></p>
-    <a href="/ecotourism" className="" style={{ display: "Flex",color:"white"}}>Known More</a>
+    <a href="/ecotourism" className="" style={{ color:"white",border:"solid",padding:"10px"}}>Know More</a>
   </header>
   </div>
 </div>
