@@ -58,7 +58,7 @@ There is need to rejuvenate bee keeping in Uttarakhand both as an alternate live
                     <div className="col-lg-6 box2">
                         <div className=" mb-50 mb-lg-0">
                         <img
-                            src="assets\img\home\beekeeping.png"
+                            src="/assets/img/beekeeping/image2.jpg"
                             data-rjs={2}
                             alt="Bee-Keeping"
                             data-rjs-processed="true"
