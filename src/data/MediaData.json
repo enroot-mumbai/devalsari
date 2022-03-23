@@ -154,5 +154,95 @@
       "URL": 
       "https://hindi.theprint.in/opinion/how-himalayas-youth-are-showing-the-way-by-conserving-the-species-of-butterflies-birds-and-moths/286056/",
       "imagePath":"/assets/img/news/news20.png"
+    },
+    {
+      "id": 19,
+      "source": "Rapid Leaks",
+      "date": "01/08/2020",
+      "headline": "मधुमक्खियों को बचाने वाले इस शख्स को सलाम, मिल चुका है बेस्ट वाइल्ड लाइफ सर्विस अवार्ड",
+      "URL": 
+      "https://hindi.rapidleaks.com/positive-stories/arun-gour-honeybee-rescue-jungle/",
+      "imagePath":"/assets/img/news/news21.png"
+    },
+    {
+      "id": 20,
+      "source": "Think Wildlife Foundation",
+      "date": "01/08/2020",
+      "headline": "Son of Nature",
+      "URL": 
+      "https://thinkwildlifefoundation.com/son-of-nature/",
+      "imagePath":"/assets/img/news/news22.png"
+    },
+    {
+      "id": 21,
+      "source": "Jagran",
+      "date": "02/26/2022",
+      "headline": "प्रकृति प्रेमियों को भा रही देवलसारी की जैव विविधता",
+      "URL": 
+      "https://m.jagran.com/lite/uttarakhand/tehri-garhwal-biodiversity-of-devalsari-is-pleasing-to-nature-lovers-22501023.html",
+      "imagePath":"/assets/img/news/news23.png"
+    },
+    {
+      "id": 22,
+      "source": "Jagran",
+      "date": "10/09/2020",
+      "headline": "गढ़वाल में पहली बार दिखा दिन में उड़ने वाला दुर्लभ पतंगा, वर्ष 1893 में नैनीताल में रिपोर्ट हुआ था यह पतंगा",
+      "URL": 
+      "https://m.jagran.com/lite/uttarakhand/dehradun-city-first-time-day-flying-insect-seen-in-garhwal-20855669.html",
+      "imagePath":"/assets/img/news/news24.png"
+    },
+    {
+      "id": 23,
+      "source": "Your Story",
+      "date": "01/13/2020",
+      "headline": "रोजगार सृजन और पर्यावरण संरक्षण से अरुण बन गए उत्तराखंड के रियल 'हीरो'",
+      "URL": 
+      "https://yourstory.com/hindi/arun-becomes-real-hero-of-uttarakhand-due-to-emplo/amp",
+      "imagePath":"/assets/img/news/news25.png"
+    },
+    {
+      "id": 24,
+      "source": "Meru Raibar News",
+      "date": "10/12/2020",
+      "headline": "टिहरी के देवलसारी मे टोनी राजा के हुए दुर्लभ दर्शन जैव विविधता के लिहाज से महत्वपूर्ण",
+      "URL": 
+      "https://meruraibar.com/tony-rajas-rare-visit-to-tehri-devalasari-_-important-in-terms-of-biodiversity/",
+      "imagePath":"/assets/img/news/news26.png"
+    },
+    {
+      "id": 25,
+      "source": "News Nation",
+      "date": "03/12/2022",
+      "headline": "टिहरी के देवलसारी में बसा है तितलियों का संसार",
+      "URL": 
+      "https://www.newsnationtv.com/amp/india/news/the-world-of-butterflie-i-ettled-in-tehri-devalari-257719.html",
+      "imagePath":"/assets/img/news/news27.png"
+    },
+    {
+      "id": 26,
+      "source": "Rajya Sameeksha",
+      "date": "10/10/2020",
+      "headline": "गढ़वाल में पहली बार नजर आया दिन में उड़ने वाला दुर्लभ पतंगा, इसकी खूबियां बेमिसाल हैं",
+      "URL": 
+      "https://amp.rajyasameeksha.com/uttarakhand/14154-rare-kite-in-devsari-of-tehri-garhwal",
+      "imagePath":"/assets/img/news/news28.png"
+    },
+    {
+      "id": 27,
+      "source": "ETV Bharat",
+      "date": "10/09/2020",
+      "headline": "गढ़वाल रीजन में पहली बार दिखा दिन में उड़ने वाला दुर्लभ पतंगा, जानिए खासियत",
+      "URL": 
+      "https://www.etvbharat.com/hindi/uttarakhand/state/tehri-garhwal/rare-kite-seen-first-time-in-garhwal-region/uttarakhand20201009191057346",
+      "imagePath":"/assets/img/news/news29.png"
+    },
+    {
+      "id": 28,
+      "source": "Dobry News",
+      "date": "03/12/2022",
+      "headline": "देवलसारी में होगा तितली महोत्सव भव्य आयोजन",
+      "URL": 
+      "https://www.dobrynews.in/2022/03/12/butterfly-festival-grand-event-to-be-held-in-devalsari/",
+      "imagePath":"/assets/img/news/news30.png"
     }
   ]

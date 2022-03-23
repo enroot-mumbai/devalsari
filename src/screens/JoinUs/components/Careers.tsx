@@ -14,10 +14,7 @@ function Careers({}: Props): ReactElement {
                     <div className="section-title text-center">
                         <h3>Jobs</h3>
                         <h2>Careers</h2>
-                        <p className={`${styles.careerintro}`}>
-                            Global Vikas Trust is a not for profit organization founded by Mayank Gandhi, of which Global Parli is a movement of Rural Economic Transformation with a focused goal of Increasing Farmer Incomes. 
-                            So far, we have successfully achieved an increase in farmer incomes from Rs. 10k - 20k per acre to over Rs. 2,00,000 per acre, benefitting thousands of farmer families and environment. Till date we have planted over 1 crore fruit trees, across thousands of villages in Maharashtra and Madhya Pradesh.     
-                        </p>
+                        
                         <p className={`${styles.careerintro}`}>
                                 We are currently recruiting passionate individuals to scale up this initiative across India.
                         </p>

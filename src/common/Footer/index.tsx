@@ -4,14 +4,15 @@ import React from "react";
 import SocialMediaAccounts from "./../../data/SocialMediaAccounts.json";
 export default function Footer(props: any) {
   const FooterLinks = [
-    { id: 1, link: "/about", title: "About us" },
-    { id: 6, link: "/ecotourism", title: "Ecotourism" },
-    { id: 6, link: "/beekeeping", title: "Bee Keeping" },
-    { id: 6, link: "/nature-tourism", title: "Nature" },
+    { id: 1, link: "/ecotourism", title: "Ecotourism" },
+    { id: 2, link: "/events", title: "Events" },
+    { id: 3, link: "/beekeeping", title: "Bee Keeping" },
+    { id: 4, link: "/nature-tourism", title: "Nature" },
+    { id: 5, link: "/media", title: "Devalsari in Press" },
     { id: 6, link: "/conservation", title: "Conservation at Devalsari" },
-    { id: 1, link: "/media", title: "Devalsari in Press" },
-    { id: 4, link: "/gallery", title: "Gallery" },
-    { id: 8, link: "/joinus#contactus", title: "Contact Us" },
+    { id: 7, link: "/gallery", title: "Gallery" },
+    { id: 8, link: "/about", title: "About us" },
+    { id: 9, link: "/joinus#contactus", title: "Contact Us" }
   ];
   return (
     <>
@@ -60,7 +61,7 @@ export default function Footer(props: any) {
                   <div className="widget-title">
                     <h4>Quick Links</h4>
                   </div>
-                  <ul className="menu">
+                  <ul className="menu" style={{textAlign:"left",marginLeft:"90px"}}>
                     {FooterLinks.map((link) => {
                       return (
                         <li key={link.id}>

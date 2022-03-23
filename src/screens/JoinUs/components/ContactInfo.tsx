@@ -78,13 +78,13 @@ Devalsari Environment Protection and Technology Development Society
                   <div className="media-body">
                   <h4>
                       <a href ="https://www.google.com/maps/place/Devalsari+Homestay/@30.5436056,78.1827387,17z/data=!3m1!4b1!4m5!3m4!1s0x3908c4b475ec7b69:0xe5fc70bc68b26cfe!8m2!3d30.543601!4d78.1849274" target="_blank">
-                      Kesar Singh, Nature Guide & Homestay,
+                      Kesar Singh, Board Member.
                       </a>
                       </h4>
                       <a href="tel: 91 84770 91851">+91 8477091851</a> 
                     <p>
                     <p>
-                      <a href="mailto: develsari@gmail.com">develsari@gmail.com</a>
+                      <a href="mailto: develsari@gmail.com">info.develsari@gmail.com</a>
                     </p>
                       
                     </p>
