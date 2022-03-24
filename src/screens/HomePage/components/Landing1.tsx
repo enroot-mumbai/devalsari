@@ -15,7 +15,7 @@ function Landing1({}: Props): ReactElement {
            
 
            <header id="showcase">
-    <h1 style={{color:"white"}}>To Visit Devalsari</h1>
+    <h1 style={{color:"#eeeeee"}}>To Visit Devalsari</h1>
     <p style={{color:"white",display:"flex", textAlign:"left"}}></p>
     <div className="button1">
             <div className="button">

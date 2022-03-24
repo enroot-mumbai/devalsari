@@ -109,17 +109,17 @@ function Story({}: Props): ReactElement {
               The 
               <a href="#"><b> Devalsari Environment Protection </b></a> and Technology Development Society was set up to promote conservation and livelihoods
                through ecotourism and bee-keeping in Uttarakhand beginning with the Jaunpur region.
-              <br/>In the words of Arun Prasad, the biggest problem in Uttarakhand is “playen” wherein rural populations 
+              <br/>In the words of Arun Prasad, the biggest problem in Uttarakhand is “palayan” wherein rural populations 
               are abandoning their homes to shift to towns and urban areas abandoning traditional practices of agriculture.
               
-               <br/>The primary reasons for “playen” are reduced returns from agriculture and livestock, lack of job opportunities in the villages, poor education and health care. 
+               <br/>The primary reasons for “palayan” are reduced returns from agriculture and livestock, lack of job opportunities in the villages, poor education and health care. 
                 The reduced returns from agriculture are driven by increased damage to crops by wildlife (rhesus macaque, langur, wilds pigs), reduced livestock populations leading to reduced soil fertility, 
                 reduced availability of good seeds, changing patterns of rainfall and lack of irrigation facilities and finally poor price realizations of agricultural produce.
                 <br/> “Bara Anaj”, the twelve types of food grains that were grown in Uttarakhand earlier meant that other than salt, soap and clothes, no other material had to be purchased from the market. 
               </p>
               <p>
               Now, people’s aspirations and needs have changed, as well as their dependence on the government for handouts through MNREGA and subsidized food through ration shops.
-              <br/>In Uttarakhand, rain-fed agriculture on scattered, small landholdings for subsistence farming is the norm, rather than the exception.The phenomenon of “playen” has resulted in many fields being run over with Lantana and Eupatorium, which in turn has resulted the increased presence of wildlife such as leopards, porcupines and wild pigs near villages, resulting in increased conflict.
+              <br/>In Uttarakhand, rain-fed agriculture on scattered, small landholdings for subsistence farming is the norm, rather than the exception.The phenomenon of “palayan” has resulted in many fields being run over with Lantana and Eupatorium, which in turn has resulted the increased presence of wildlife such as leopards, porcupines and wild pigs near villages, resulting in increased conflict.
             </p>
             <p>This situation has resulted to increased unemployment and dissatisfaction amongst the youth. The educated youth, in any case, has little interest in continuing traditional agriculture or livestock rearing, and more keen on government jobs as a preferred livelihood. This has lead to a situation that abandoned fields are being sold at throwaway prices to people from outside the State in desperation to raise money for short term needs. </p>
             
