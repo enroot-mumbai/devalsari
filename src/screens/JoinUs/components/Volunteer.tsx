@@ -22,7 +22,7 @@ function Volunteer({}: Props): ReactElement {
                         <h2>How You Can Support the Society</h2>
                         </div>
                   <div className="row align-items-center">
-                    <div className="col-lg-6 mt-20">
+                    <div className="col-lg-6 mt-30">
                      
                         <ul className="list-unstyled list-check text-left">
                 <li>
@@ -112,7 +112,7 @@ function Volunteer({}: Props): ReactElement {
                         </div>
                     </div>
                     <div className="col-lg-6 box2">
-                      <div className="banner-image mt-50 mt-lg-0 text-center text-lg-right">
+                      <div className="banner-image mt-0 mt-lg-0 text-center text-lg-right">
                         <img
                           src="/assets/img/illustrations/2480558.png"
                           data-rjs={2}
