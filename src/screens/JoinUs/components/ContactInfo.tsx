@@ -77,7 +77,7 @@ function ContactInfo({}: Props): ReactElement {
                       <a href="tel: 91 84770 91851">+91 8477091851</a> 
                     <p>
                     <p>
-                      <a href="mailto: develsari@gmail.com">info.develsari@gmail.com</a>
+                      <a href="mailto: info.devalsari@gmail.com">info.devalsari@gmail.com</a>
                     </p>
                       
                     </p>
