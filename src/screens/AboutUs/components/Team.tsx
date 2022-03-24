@@ -71,7 +71,7 @@ function Team({ }: Props): ReactElement {
                             onClick={() => setShowTeamType('mumbaiteam')}
                             style={{ fontFamily: 'Caveat, cursive', fontWeight: 'bolder', letterSpacing: 1.3, fontSize: '22px' }}
                           >
-                            Mumbai team
+                            
                             </a>
                         </li>
                         <li className="nav-items">

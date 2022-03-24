@@ -5,26 +5,21 @@ interface Props {}
 function ContactInfo({}: Props): ReactElement {
 
   return (
-    <section id="contactus" className="pt-60 pb-120">
+    <section id="contactus" className="pt-100 pb-80">
       <div className="container">
+      <div className="section-title text-center">
+                         <h2>
+                          Contact Info
+                        </h2> 
+                        </div>
+              <p style={{marginTop:"-30px"}}>
+                We are always available for you.
+              </p>
         <div className="row">
           <div className="col-lg-6">
             <div className="contact-info ">
-            <div className="banner-content text-center">
-                         <h1
-                          style={{
-                            fontFamily: "Raleway",
-                            fontWeight: "bolder",
-                            letterSpacing: 1.3,
-                            fontSize: "36px",
-                          }}>
-                          Contact Info
-                        </h1> 
-                        </div>
-              <p>
-                We are always available for you.
-              </p>
-              <div className="row text-left">
+            
+              <div className="row text-left mt-100">
                 <div className="col-sm-6 col-lg-12 single-contact-info media align-items-center">
                   <div className="image">
                   <svg
@@ -42,20 +37,18 @@ function ContactInfo({}: Props): ReactElement {
                       />
                     </svg>
                   </div>
-                  <div className="media-body">
+                  <div className="media-body mt-40">
                     <h4>
                       <a href ="https://www.google.com/maps/place/Devalsari+Homestay/@30.5436056,78.1827387,17z/data=!3m1!4b1!4m5!3m4!1s0x3908c4b475ec7b69:0xe5fc70bc68b26cfe!8m2!3d30.543601!4d78.1849274" target="_blank">
                       Arun Prasad Gaur, President
                       </a>
                       </h4>
-                      <a href="tel: 91 86506 45385">+91 8650645385</a> 
+                      <a href="https://api.whatsapp.com/send/?phone=918650645385&app_absent=0" target="_blank">
+                        +91 8650645385
+                        </a> 
                       <p>
                       <a href="mailto: arunapis1@gmail.com">arunapis1@gmail.com</a>
                     </p>
-                    {/* <p>
-                    
-Devalsari Environment Protection and Technology Development Society
-                    </p> */}
                   </div>
                 </div>
                 <div className="col-sm-6 col-lg-12 single-contact-info media align-items-center">
@@ -77,7 +70,7 @@ Devalsari Environment Protection and Technology Development Society
                   </div>
                   <div className="media-body">
                   <h4>
-                      <a href ="https://www.google.com/maps/place/Devalsari+Homestay/@30.5436056,78.1827387,17z/data=!3m1!4b1!4m5!3m4!1s0x3908c4b475ec7b69:0xe5fc70bc68b26cfe!8m2!3d30.543601!4d78.1849274" target="_blank">
+                      <a href ="https://goo.gl/maps/vfmdUL9bFHvRAkdY7" target="_blank">
                       Kesar Singh, Board Member.
                       </a>
                       </h4>
@@ -96,18 +89,16 @@ Devalsari Environment Protection and Technology Development Society
                     
                      
                   </div>
-                  {/* <div className="media-body">
-                    
-                    <h4>Email</h4>
-                    <p>
-                      <a href="mailto: develsari@gmail.com">develsari@gmail.com</a>
-                    </p>
-                  </div> */}
                 </div>
                 
               </div>
             </div>
           </div>
+          <div className="col-lg-6 box2">
+                      <div className="banner-image mt-50 mt-lg-0 text-center text-lg-right">
+                      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3436.202816021494!2d78.18293231512695!3d30.543573381703425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3908c4b4770d3c21%3A0x7b728412bb5bd852!2sDeodar%20EcoTourism%20%26%20Research%20Center%7BDERC%7D!5e0!3m2!1sen!2sin!4v1648107905936!5m2!1sen!2sin" width="600" height="450" style={{border:"0"}} loading="lazy"></iframe>
+                      </div>
+                    </div>
         </div>
       </div>
     </section>
