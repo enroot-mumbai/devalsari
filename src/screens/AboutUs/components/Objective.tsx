@@ -32,7 +32,7 @@ function Objective({}: Props): ReactElement {
             <ul className="list-unstyled list-check">
                 <li>
                      <i className="fa fa-check" aria-hidden="true" />
-  Alternate livelihoods to reduce “playen” by promoting organic farming and produce by supporting formation of self-help groups.
+  Alternate livelihoods to reduce “palayan” by promoting organic farming and produce by supporting formation of self-help groups.
                 </li>
                 <li>
                         <i className="fa fa-check" aria-hidden="true" /> 

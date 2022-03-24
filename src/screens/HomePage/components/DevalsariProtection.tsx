@@ -35,7 +35,7 @@ function DevalsariParyavaran ({}: Props): ReactElement {
            
             <p>
             The Devalsari Paryavaran Bachoa Samuh is a youth group formed on 27 July 2015 at Devalsari under the auspices of Devalsari Environment Protection and Technology Development Society. 
-            This youth group’s main objective is to support nature conservation, create alternate livelihood options and reduce playen (migration of village people to the plains). 
+            This youth group’s main objective is to support nature conservation, create alternate livelihood options and reduce palayan (migration of village people to the plains). 
             </p>
           </div>
         </div>

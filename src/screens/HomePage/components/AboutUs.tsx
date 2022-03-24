@@ -48,9 +48,9 @@ function AboutUs({}: Props): ReactElement {
               <p>
               The Devalsari Environment Protection and Technology Development Society was set up to promote conservation and livelihoods
                through ecotourism and bee-keeping in Uttarakhand beginning with the Jaunpur region.
-              <p>In the words of Arun Prasad, the biggest problem in Uttarakhand is “playen” wherein rural populations 
+              <p>In the words of Arun Prasad, the biggest problem in Uttarakhand is “palayan” wherein rural populations 
               are abandoning their homes to shift to towns and urban areas abandoning traditional practices of agriculture.</p>
-              The primary reasons for “playen” are reduced returns from agriculture and livestock, lack of job opportunities in the villages, poor education and health care. 
+              The primary reasons for “palayan” are reduced returns from agriculture and livestock, lack of job opportunities in the villages, poor education and health care. 
               <br />
               <div className="button1">
                <div className="button">
